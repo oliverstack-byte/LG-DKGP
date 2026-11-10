@@ -1,0 +1,174 @@
+[
+  {
+    "environment": "pusht",
+    "dataset_basename": "pusht_expert_train.h5",
+    "bytes": 46300921856,
+    "columns": {
+      "action": [
+        2336736,
+        2
+      ],
+      "ep_len": [
+        18685
+      ],
+      "ep_offset": [
+        18685
+      ],
+      "episode_idx": [
+        2336736
+      ],
+      "pixels": [
+        2336736,
+        224,
+        224,
+        3
+      ],
+      "proprio": [
+        2336736,
+        4
+      ],
+      "state": [
+        2336736,
+        7
+      ],
+      "step_idx": [
+        2336736
+      ]
+    },
+    "content_sha256": "NOT COMPUTED"
+  },
+  {
+    "environment": "cube",
+    "dataset_basename": "cube_single_expert.h5",
+    "bytes": 101942558720,
+    "columns": {
+      "action": [
+        2010000,
+        5
+      ],
+      "control": [
+        2010000,
+        7
+      ],
+      "ep_idx": [
+        2010000
+      ],
+      "ep_len": [
+        10000
+      ],
+      "ep_offset": [
+        10000
+      ],
+      "id": [
+        2010000
+      ],
+      "observation": [
+        2010000,
+        28
+      ],
+      "pixels": [
+        2010000,
+        224,
+        224,
+        3
+      ],
+      "prev_qpos": [
+        2010000,
+        21
+      ],
+      "prev_qvel": [
+        2010000,
+        20
+      ],
+      "privileged_block_0_pos": [
+        2010000,
+        3
+      ],
+      "privileged_block_0_quat": [
+        2010000,
+        4
+      ],
+      "privileged_block_0_yaw": [
+        2010000,
+        1
+      ],
+      "privileged_target_block": [
+        2010000
+      ],
+      "privileged_target_block_pos": [
+        2010000,
+        3
+      ],
+      "privileged_target_block_yaw": [
+        2010000,
+        1
+      ],
+      "privileged_target_task": [
+        2010000
+      ],
+      "proprio_effector_pos": [
+        2010000,
+        3
+      ],
+      "proprio_effector_yaw": [
+        2010000,
+        1
+      ],
+      "proprio_gripper_contact": [
+        2010000,
+        1
+      ],
+      "proprio_gripper_opening": [
+        2010000,
+        1
+      ],
+      "proprio_gripper_vel": [
+        2010000,
+        1
+      ],
+      "proprio_joint_pos": [
+        2010000,
+        6
+      ],
+      "proprio_joint_vel": [
+        2010000,
+        6
+      ],
+      "qpos": [
+        2010000,
+        21
+      ],
+      "qvel": [
+        2010000,
+        20
+      ],
+      "render_time": [
+        2010000
+      ],
+      "reward": [
+        2010000
+      ],
+      "step_idx": [
+        2010000
+      ],
+      "success": [
+        2010000
+      ],
+      "target": [
+        2010000,
+        28
+      ],
+      "terminated": [
+        2010000
+      ],
+      "time": [
+        2010000,
+        1
+      ],
+      "truncated": [
+        2010000
+      ]
+    },
+    "content_sha256": "NOT COMPUTED"
+  }
+]

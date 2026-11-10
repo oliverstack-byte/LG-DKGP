@@ -1,0 +1,115 @@
+{
+  "schema": "lgdkgp_release_checkpoints_v1",
+  "environments": {
+    "cube": {
+      "prior": {
+        "file": "checkpoints/cube/prior.pt",
+        "sha256": "45ca9dac88918c774aeb63458eafefef7398f3f9e3315d2c36da0536ca203212",
+        "bytes": 9147839
+      },
+      "mean": {
+        "file": "checkpoints/cube/mean.pt",
+        "sha256": "ff520a80a5c0a53ed46b00c22458c7b3e4f086c3950aea1eee7a25eb22589813",
+        "bytes": 6386231
+      },
+      "world_model": {
+        "file": "checkpoints/cube/world_model.pt",
+        "sha256": "6aa6d78dbc39a0edabdaf9f119556f8ae9606d5dd92ed82296cc8fdddac3463f",
+        "bytes": 72291390
+      },
+      "world_config": {
+        "file": "checkpoints/cube/config.json",
+        "sha256": "e53cb518fe086be34d9b6ea036d67ee003a3a068347a6145586e5a5b8bd409f8",
+        "bytes": 1015
+      }
+    },
+    "libero_caddy": {
+      "prior": {
+        "file": "checkpoints/libero_caddy/prior.pt",
+        "sha256": "649d7cab51c68e4d808243fc6576018969add1a0a3316d3d77601154379c0b74",
+        "bytes": 14328647
+      },
+      "mean": {
+        "file": "checkpoints/libero_caddy/mean.pt",
+        "sha256": "4d8de5f7f00019197f036f66c4a07ea764a23aee9034b9ada8a9645f1853d5b3",
+        "bytes": 9510967
+      },
+      "world_model": {
+        "file": "checkpoints/libero_caddy/world_model.pt",
+        "sha256": "2e2cf2c852ebf095bc18dfb9c552afc6c50441946a0b31c092e5f87b6b68c30d",
+        "bytes": 184020456
+      },
+      "world_config": {
+        "file": "checkpoints/libero_caddy/config.json",
+        "sha256": "901f50fc58827141557369a926e1132c9445fe6ea4677caae2f33bc12195fdaf",
+        "bytes": 1219
+      }
+    },
+    "libero_scene2": {
+      "prior": {
+        "file": "checkpoints/libero_scene2/prior.pt",
+        "sha256": "6bbf1c8f157be6f006485f4d6849fd92ddedc048713b3ae29e1316fae3fea6f1",
+        "bytes": 14315775
+      },
+      "mean": {
+        "file": "checkpoints/libero_scene2/mean.pt",
+        "sha256": "17e71e84df14c879b53b8be2a755e70bf59c5dbe03154c350be1165f12c80342",
+        "bytes": 9510967
+      },
+      "world_model": {
+        "file": "checkpoints/libero_scene2/world_model.pt",
+        "sha256": "71aec1276fc6b65700f9d57452a4d5456011ac08acae0b2b0c58d397aadc94fd",
+        "bytes": 184020456
+      },
+      "world_config": {
+        "file": "checkpoints/libero_scene2/config.json",
+        "sha256": "901f50fc58827141557369a926e1132c9445fe6ea4677caae2f33bc12195fdaf",
+        "bytes": 1219
+      }
+    },
+    "pusht": {
+      "prior": {
+        "file": "checkpoints/pusht/prior.pt",
+        "sha256": "ff0ae7326e959b2688ecbf3f7bf59acf1de9c0f1d23a80ee27df8a41b2027ee4",
+        "bytes": 8189039
+      },
+      "mean": {
+        "file": "checkpoints/pusht/mean.pt",
+        "sha256": "58ee34bdad19a729c65b04d26fc43944f36a888ad33203ba7dbe78b94f5da1a4",
+        "bytes": 6372407
+      },
+      "world_model": {
+        "file": "checkpoints/pusht/world_model.pt",
+        "sha256": "8b3a855845a6712a2d09a2cc2a21b5e8bd6a874b7833cc6f59a4fe98d9e54247",
+        "bytes": 72290814
+      },
+      "world_config": {
+        "file": "checkpoints/pusht/config.json",
+        "sha256": "b3e53c5a848356632bb6738a731bf0b2386fb91f6f73c4efd67ed14d32afaa64",
+        "bytes": 1015
+      }
+    },
+    "robotwin_a2b": {
+      "prior": {
+        "file": "checkpoints/robotwin_a2b/prior.pt",
+        "sha256": "35ab96eaaa5e88e6e867ec7c7fb4a52b9e58d2a9a25803e2b3cffc42b8f12244",
+        "bytes": 16672195
+      },
+      "mean": {
+        "file": "checkpoints/robotwin_a2b/mean.pt",
+        "sha256": "cfc5334d20c840c343ca255aa2bcb40355c051e92f7a29106e0f092a8801def0",
+        "bytes": 9543223
+      },
+      "world_model": {
+        "file": "checkpoints/robotwin_a2b/world_model.pt",
+        "sha256": "b9cb1d4b771e87c0e0295bff14d70645203883731855055d8866f707a39199d8",
+        "bytes": 185594664
+      },
+      "world_config": {
+        "file": "checkpoints/robotwin_a2b/config.json",
+        "sha256": "81da834d9a0fd14a9d8a4ae549284f5d457ac794c9db053d5345ebc0b92507b1",
+        "bytes": 1250
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "seed": 2027,
+  "model": {
+    "history_max": 32,
+    "horizon": 25,
+    "hidden": 128,
+    "heads": 4,
+    "layers": 2,
+    "feature_dim": 32,
+    "dropout": 0.1,
+    "temporal": "matern32",
+    "covariance_scale": 1.0,
+    "exploration_std": 0.05
+  },
+  "training": {
+    "batch_size": 128,
+    "epochs": 100,
+    "patience": 10,
+    "mean_lr": 0.0001,
+    "gp_lr": 0.001,
+    "gradient_clip": 1.0,
+    "inducing_points": 128,
+    "checkpoint_every_batches": 500
+  }
+}

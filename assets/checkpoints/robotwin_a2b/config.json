@@ -1,0 +1,60 @@
+{
+  "_target_": "planning.native_world_model.MultiViewJEPA",
+  "action_encoder": {
+    "_target_": "module.Embedder",
+    "emb_dim": 512,
+    "input_dim": 70
+  },
+  "encoder": {
+    "_target_": "stable_pretraining.backbone.utils.vit_hf",
+    "image_size": 224,
+    "patch_size": 14,
+    "pretrained": false,
+    "size": "tiny",
+    "use_mask_token": false
+  },
+  "pred_proj": {
+    "_target_": "module.MLP",
+    "hidden_dim": 2048,
+    "input_dim": 512,
+    "norm_fn": {
+      "_partial_": true,
+      "_target_": "torch.nn.BatchNorm1d"
+    },
+    "output_dim": 512
+  },
+  "predictor": {
+    "_target_": "module.ARPredictor",
+    "depth": 6,
+    "dim_head": 64,
+    "dropout": 0.1,
+    "emb_dropout": 0.0,
+    "heads": 16,
+    "hidden_dim": 512,
+    "input_dim": 512,
+    "mlp_dim": 2048,
+    "num_frames": 3,
+    "output_dim": 512
+  },
+  "projector": {
+    "_target_": "module.MLP",
+    "hidden_dim": 2048,
+    "input_dim": 192,
+    "norm_fn": {
+      "_partial_": true,
+      "_target_": "torch.nn.BatchNorm1d"
+    },
+    "output_dim": 192
+  },
+  "view_keys": [
+    "pixels",
+    "left_wrist_pixels",
+    "right_wrist_pixels"
+  ],
+  "fusion": {
+    "_target_": "module.MLP",
+    "input_dim": 576,
+    "hidden_dim": 2048,
+    "output_dim": 512
+  }
+}

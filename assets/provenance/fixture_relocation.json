@@ -1,0 +1,1316 @@
+[
+  {
+    "fixture": "fixtures/robotwin_a2b/199ab841406c0dd4f6a5de6e.npz",
+    "source_sha256": "780280e490073ba78f8372e69d8d1370b381ec6665f59a47e2156bd030c1d0a5",
+    "released_sha256": "3c08a224fe6d9ad27ebca2c2a451b761de6d2fb0234b07c1dd2db43caab4b505",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/76a2a8ca80fe77b83fe8f93e.npz",
+    "source_sha256": "952029447e9981e65db2efc714fa2cc8762998764d5e804e53f98a6461d7baf3",
+    "released_sha256": "f2e0ddd225291a966bd12c3e12924918844c3144cd343982eb30bce3f6b14fab",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e3747c3573346a4a57d10169.npz",
+    "source_sha256": "cc21137b9015272f0a7c419fa18c73847d465f51a070ccce8230831462fbe274",
+    "released_sha256": "62daa7865dbc5eb154ac11952a63184c70642de0c974814669904b96dac4a35f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d790e8ceacfb3ba0d6b074bd.npz",
+    "source_sha256": "92591b71260bd991f94ae5e2621896b45bf4648d75cc8f91614f17667c1f5c0d",
+    "released_sha256": "fb8671d4a65a62c55c338e7aa5bcd80129491c8a1c542b2c1af9c1b81c7a1600",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/654721764ee25dc5343d99cb.npz",
+    "source_sha256": "4e950aefa920a3bc2f9a8a8dd429b9da7eb14f168e2d3a05b0c6f98b260146d8",
+    "released_sha256": "9cc3e321d9388de1ffae5cb51e210c88b860b460f26537c5f8cd9b703b233826",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/818cf02cc753c605f4c93cfa.npz",
+    "source_sha256": "1e6ee7f9c855bbdd1650b20cf9bdec41dc2cc6f0b4782077f5bb8cc9cdc35c48",
+    "released_sha256": "e61cc5f6cc7d3c22e1f5736a5906ddfcbb68366ffeea264e55776dd8cc7886a2",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1cbc5548578040aa1eb29cde.npz",
+    "source_sha256": "7bfb6d4476e9ccb3fc9ad9c4b2c080dcf6d438a72f765397bb27bfffef3e7462",
+    "released_sha256": "7c10d71a3c554dc284dc2e735fe994232f90c91921a08fee8ac475b0a2e3b2f1",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4d569433173e3d33704e5272.npz",
+    "source_sha256": "883c218ca61c7268114695f58e984cfb84e0fb42da5b75f89665c8456e718514",
+    "released_sha256": "234c5990d4b51d42702b1c9775358ae3c9b533f0152edc58fa990776d8fe6266",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9a7f8821df8aa78fa54b1d33.npz",
+    "source_sha256": "e6a13a99870eb684f373aecd02de989aa2d819bd2ed84e2c71330949e060eeea",
+    "released_sha256": "000d12a488fa7e834cc13e2432e1c21dd208c68a6b810e86d37ba2ffc3776347",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/305872d761c2f899ca69e11d.npz",
+    "source_sha256": "66da5f2bf1a15a7ac6f1c1d2b492e2b4a3ecd3393063aff2609069656553f115",
+    "released_sha256": "3b70db783a245317e4bd72669a8b8b117381f2b7c5d247e60d5795f99ec2637b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/398a774a05b031886565a49a.npz",
+    "source_sha256": "9d9366b34d5f5898255f4f281c5fe312046448a84ec04ac9c591c273aa26a3d4",
+    "released_sha256": "95e423301dbac420dc2a0e583dc4fb6f712a14eb47b70bf485ea4b3ca1114816",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e9c535e43fd1fc0c7e80fdea.npz",
+    "source_sha256": "9d4a8668dd2fc4c3ad6fcb333d9881d895d50123157d343510db9d540f133df8",
+    "released_sha256": "4f4f77892e8b844a203e4492a969c7fab75ba883da304d661f164180fd245317",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3c1d9b6d75c9e9462115ac38.npz",
+    "source_sha256": "a8208bd4291dbbefd15117c0f4ab5f67ad41eb880b268487d60a898bc83a4004",
+    "released_sha256": "51cb463b9edd3a57ac47994e2ecaa94cee186fc25692aff84f5164ab800f038b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c1ef88bbd7a5feb0fe717c39.npz",
+    "source_sha256": "a7041c8f82d750a6390e3bfa71d810db040a2d5b473c1a1e96f0a36b805d0ccb",
+    "released_sha256": "32fcba22f1b431381a7470085e60411e47c179daa3d18abe433edeef79e651f0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6d21047fd17798bd10cdb6f4.npz",
+    "source_sha256": "07c99351381553cdf7f94ecdfeb5e27390b6337d52dff893af51d578b59eef45",
+    "released_sha256": "c43fcf6496894ccab2516933ac04c32b61956dee783ea9efdde9a5a01f7b088a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/82f8ae51cf502fc7407d36e7.npz",
+    "source_sha256": "bbd9d1b038d0ffcbec0bec1027f07831647c14443130bb35ce84156b878033e1",
+    "released_sha256": "5c251d125f993bdc9e3cb94207868325c345685f3fa53a7e117c82508d641fc9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d702e4a05c3b8ffa17a09fd6.npz",
+    "source_sha256": "c286e9168c66d738269bfd376522090e1a9d28a19ae83542ff43acbce6ba5729",
+    "released_sha256": "05908850157f0074655650c67b47933afc1891694326a8b0e3bfde66335228dd",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5bdaf43dedf0aaf8846b6331.npz",
+    "source_sha256": "bb131f00f781895637957a7d59544cfa835137d1cb4567e7b18bacc67fae3ffa",
+    "released_sha256": "5f1c42e9655300178fa59f6eab086dc4f7ca875a0897aef29bbc4de087df5b29",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/48893c87c2e01906822589e8.npz",
+    "source_sha256": "a152afac9e15662c2fcc461d8f623635fe69eb8ff8e9c6ef978f77519a959f06",
+    "released_sha256": "c0470dc747ba53d46f7bf29d6b5ad580dba4b0ddab256481e581df8bd33cc6b9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ea54b5255e345d5a9696f73d.npz",
+    "source_sha256": "f6c96eb4c5367da97c6f81dc641059ac8cf26cecc079998235b023b49958bffb",
+    "released_sha256": "4caf5f0a9fdfd83c8a86c92920a2d44023c27435d931c8e0c9eb3b3dd4139bcc",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/14dbbb19ea26c57607b2f365.npz",
+    "source_sha256": "ae952489129ac48fca763c56f51bc260e049ead8a19cfbf6ab5fb2b4b8497603",
+    "released_sha256": "37007b7d428fd3f5439084f2e636ca6873e1a2e816d35dd7a30c8f81a62f36c9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c58b580fdb52a1304bb74720.npz",
+    "source_sha256": "fc7330439eaa904839969ec82e15d125013877e976341401cee3f4c83b095a43",
+    "released_sha256": "811269876a50c43a29ce7951a2875d7d23a874c65c05a267b451d46d896a8b09",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6532d09a7c5e87a697e9d9a8.npz",
+    "source_sha256": "52c079376cf7079b50bb049d5f9461fe4618be57f32482ace994099b9adce04d",
+    "released_sha256": "22dacac6b114b8bbe5c518d835bb4d9754e92e217ccf5231210d4cb8956ce89f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/67b582a8b407745fc60101dd.npz",
+    "source_sha256": "086873a77121a622c19a3b20af7c54eb3441aacf6ebc040d6707ac3ed07e4dc6",
+    "released_sha256": "4252e41d01a7c2967eba836eb75d2ec6e59199980cd5ca433dd4c4c839537ba6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5f9e3cb8ddc4e3ab53d5260d.npz",
+    "source_sha256": "b33f5632bc894fe1d4253a725034f356d0332c443eb722688306d7dbd80f840e",
+    "released_sha256": "c16004f3815c4e764d103434886234565b9d34c8e2f3e678a0ab9a00f358c8ee",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3af31c3c087c8acbcbac7d15.npz",
+    "source_sha256": "41d8e012c04102c9eddea4903755995f1ab5aa3ff8e1988fae61481fa2b510b8",
+    "released_sha256": "bef6f2ecca9badac9296bca1bc2dedcb2d272ba5a6a3a1f5d74214616586a098",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/cd913184322593cf0cc450c1.npz",
+    "source_sha256": "f0f35db4c4b1a4ff7c242bc19c2398845fc1649327022bff7cae02e43e88b3e3",
+    "released_sha256": "4528bfb7fe7c7a65766af5c0fd9eae530d62b6d4b71c6b762edccc499b7acd62",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9c14dfbcffd896fbb47aecd1.npz",
+    "source_sha256": "b1f5542d11dc38bbef5a08708d7c6c40686754486ea29a41dbf0b0e5f0adce51",
+    "released_sha256": "c029f2a5f4d2ae34be399c94e92b7325563911f3705c435b2ed6a3948082802f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b9a694f0cdefee371da76c41.npz",
+    "source_sha256": "3477c5005594f44048ee160183470adbdec8884bc5696c9aa01188ad563e4966",
+    "released_sha256": "055d6e93a3b2d980e81678a916191055019179f35914396a714bd60bbd61ad0c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/fe675a6ef43adf27546ba5a1.npz",
+    "source_sha256": "c247fec168b3b06ce13d1e208c847d4dfe3acc61be1a52629a94e742013e6654",
+    "released_sha256": "598ba1ab0c10305ccdca86691400ab2c68d800795c5d9e48dbdcefce95deacb0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/131ed6b2332dd23ba5182c64.npz",
+    "source_sha256": "e43ad32881167e6354ff46fb868d895a5b8ed30640f0f2c26aa24566387a7f30",
+    "released_sha256": "325c16209e1a0f3d7618ea125fc829e3f0539936d85bd48c88bda69e370c41dd",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5621f2b8aae4971e6111775f.npz",
+    "source_sha256": "6e9e28f7944422e5f28ec39e69993620930e024a649736c8d263b54f8b7f4deb",
+    "released_sha256": "415bbaf20ed8f4e48046a10c59eea007a3690cb7290f40195474a4b9f2439090",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/91e1b817e46c21c070b68961.npz",
+    "source_sha256": "9a37893844672bdc2f79fcb7ad0eb5b7dd4eef4367bc6818b5cffbc848110d8e",
+    "released_sha256": "24e84a9f5544dec32e0d047b1e806c847eeb3d90530f7d15ec9abe847a73a569",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/f160a1514a326b34a6342adb.npz",
+    "source_sha256": "631d86a9f8af059c4fe839711de28b20481da40138d908b665a49e3ea380bb4b",
+    "released_sha256": "71fd8340fe1b9cae0ee33f098b53db53a01960d5388a012e0a77a12a67cbff69",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d55f960821bc48e898efac8a.npz",
+    "source_sha256": "5705078016037eb8b8dc9439eb917c1e972fb505a566e20d7f4502c09a08763d",
+    "released_sha256": "03b49149717f186480525605d175554d8fa5989df822dec4fad969388da264f8",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/dd528577e096bb696cd43f94.npz",
+    "source_sha256": "c7e144eca50e549dbb014bc0f6e5db9bcea11234d12c57784171b3f75e666032",
+    "released_sha256": "8769bee8e5cfb0551ae81817b9f1e27ec46f9adf339a816938feeb068abde972",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/099e3a6569c6ceee17aee6e2.npz",
+    "source_sha256": "13cb7fa11d199aa95d1fb09f28f8c1636bd5bc8863ba78789182e8435d7b9b52",
+    "released_sha256": "deb61a42370aba2f0d17caad3de5704f2d81f0e659203c4de948cf92f6a526b6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0c6a1b4eae28d87d2b9ee48f.npz",
+    "source_sha256": "979452e2b4c5f6d9b60e6f544f425570911e0fa146b5e05d3110027e7f4370be",
+    "released_sha256": "f190aa6c1a427fa2ec7c64f2274802dab1667aa9f99b51d6d212534b18c304c7",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ed5d55d74bc8bddef4e3265c.npz",
+    "source_sha256": "347fee627fb917e2c0f05c7933e32596201c0925b30b1b8315e2304813511156",
+    "released_sha256": "e3e0539bab36b24a248315abba3aab4fd0fe506246b64a5f4b1315a628548022",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/cef4fa1b14a12406a4122ab6.npz",
+    "source_sha256": "68bb54e1f5f23a6bbdf2cb2fd7ab045f741525204ea7e1dd3e57fa78bee10591",
+    "released_sha256": "196bdb7c5a41582bfeba1bf0ed98c3e281ba62acd6c4c994a773f9716f36a6a0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4be2283a0ac35e425b8d860e.npz",
+    "source_sha256": "22fda41ed9cd2a2d0341d09ec69b3c976b1668c172b94edcbfc38dd96393786d",
+    "released_sha256": "da8a30479603fefd8198bec47ed2c95f4be37ea0f92cb6e1753fca7453e64304",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/bc590ec7b0f07e7b11b77358.npz",
+    "source_sha256": "80695ebdb3a666847f45cb6223f7e32757372b76703788a547f6450980a29fad",
+    "released_sha256": "bd714c43c051f59bbd5dc83dbb363a9a67b50a6ed9b15d5d2f3812c8f04450b3",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3a3ca7c3ed9fe8879500d566.npz",
+    "source_sha256": "93de1ab21561856ad6e96809ebde3d31dc7ad0c7135e2846733571fc51fb6f84",
+    "released_sha256": "4da3d89a4907f8efa343c280a8db9f830e1f80584469965b11e2dec082a880f7",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/efa3e965a7797c754008f51b.npz",
+    "source_sha256": "878444ac04f3e34ffccfde7affb7c59d4ac8f0004d0457e4c081b6ee3505166c",
+    "released_sha256": "76dcfde50a9d18f043e35cd47ad31d86259bb8259478f93c34356acf5240be89",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ca98df68b25392d5079c04aa.npz",
+    "source_sha256": "7ba4a6acf37b8a7903244f6f5e758d36a0249f8abd19ac8286e16775f9a516d2",
+    "released_sha256": "9b0bbacb8d63d230854830639324e6d09210e7cf7441a05b8dc9003205e0a454",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e092690053a576cf967da7fa.npz",
+    "source_sha256": "ac7b47984dcb54a6fd07a809889c5f56b59b49146cbc3b01705ceb342ab015e9",
+    "released_sha256": "32a5544f1e399ad11158854a3881c8d5acd8223eca0ac9d44dd9d5f3f68545a9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7c172d5b762563aca94ff3c9.npz",
+    "source_sha256": "0f438145f6f12a030b5c0d6bb3e888b1bbd04c3f65ea0bc4d806f8616ec883e8",
+    "released_sha256": "ea31e792470e28ba03711edf7b2e0033324d837850dca4947c13e2d31af79be2",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e8f20d2c6aa5613b8d82d427.npz",
+    "source_sha256": "d0c83ead6b59681756a93ac23b045d52321b56a4672505c88ac160fd042d3745",
+    "released_sha256": "f9361f6223d90657729766f1341f2afd08152ae9dbd9bca557953cfd3dca03bf",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/92fb2da74ef9ed30927b8955.npz",
+    "source_sha256": "3b786bced3992d65cab88da21ae372e5f095bc33d382c0638d716f48037b84c7",
+    "released_sha256": "54f7d4a7afda340c5475a6cc2bcb1da392a14e8a34dcaa94f527fd556aa85185",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/61e4569ff60f529c394fb102.npz",
+    "source_sha256": "efa3722d5e62ad8b6135593a28f4bdd00852ab0f05dd0d380714b91756b2e602",
+    "released_sha256": "c0850c08c81129c397dcc91dc662b170768280b030e30b2b7c47b2736c3e02ee",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/f85b7fea5eb466fa180c89f7.npz",
+    "source_sha256": "005a6bd73c25ab62713702dcf4b44ec626fa8c588fda850be833bdff796eb7a9",
+    "released_sha256": "97d9726825a4512c7814cf8bae14a129eee5f43e817ebf9ba659ceb93045c97d",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/34cc213e071a123f0343c882.npz",
+    "source_sha256": "3ccc22495a03dda072a96e30eae930e90e4484f7a1e7d26191c5f31023156833",
+    "released_sha256": "497ef06028f86deef5c578784a92fb95dd0bf37615d360c90bc31983a8db9976",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/33c6ea3a22eac403777e4118.npz",
+    "source_sha256": "67aa24694e21acdca3dca7a65b3832096efa770313ce1200d97bc6543a1a2a5d",
+    "released_sha256": "788227dd63c0ed1612af8486488cc42774e79c8c2e401b1651113f20d5a1c4cb",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b668053033a4d1fc1654054e.npz",
+    "source_sha256": "a9e0e767bdaa1c8154c8a0031625c528247a08fc9c9cc827f455912ae986c0b4",
+    "released_sha256": "0afadaa21815811ff63e9c2770d2edbd1e75a700cbbfa9af9a2a61532dd4f218",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d881f7a805e04bd1e4c703c8.npz",
+    "source_sha256": "90be493624a3ace5969270087e10c43e54ee5af7a231081ceef211e7a37ba8a5",
+    "released_sha256": "64780dd0579039cc3e48abec257b1b9e8f7f25d17ad5611fb7d2a224d521ab0c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/feb5289f7e982563f7249bab.npz",
+    "source_sha256": "aff275ee85583f6155fe8116ab20429ba08ffedeae9a49fdd85ca5d2c889ca68",
+    "released_sha256": "84dd50a61be6b71408cd063b29cfab024898efb908f4386e134872ca1f53f2ae",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ab886b2c46fe88bcad611604.npz",
+    "source_sha256": "0333681c438c7cd692fd5de71ac08698f8354da7de866ede7418732a23473490",
+    "released_sha256": "667ac3dc6be9485ed705411e71a0b798007ffd23af121be8a81c01fab97a8c6e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1e5cc67253b2da3978d7b0b8.npz",
+    "source_sha256": "37b97b04dec786ef5088beadcbf318ab8a2eea083b9a511a422e9b023ffdb2d6",
+    "released_sha256": "464aef08738af3ca31f4e93ff37d997108b8eb17d8bcac5ad3369029a08d2d80",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e4b69527c5c1e805fe0042af.npz",
+    "source_sha256": "7c9990a1e0c96dabedc5016e0177a6ec897af3cebdd6686b9f50116a65516b3c",
+    "released_sha256": "1670bc57316bb051f4730f089458823cd99bc9fe7e3e2adecf3b8aaa1dbcaf1a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/aa3bf80b4f2789ad5ab5e707.npz",
+    "source_sha256": "0b0e4c81f52f83ac317f6da1715f12086c16a3abacd8af562d30b5d522f349fa",
+    "released_sha256": "b30434e272048dbe9e45d66c3c363174b8feeb72c8b6ef35b0f1eff0ae5a5851",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/73b6b4789145a00854fe0a2e.npz",
+    "source_sha256": "07ba54038190c88ae670b0f62038f7f343633c4ff3f6923e7e4f3af3999e5ba4",
+    "released_sha256": "4b0e431fce00c54320e7410f35108825218921a7665c7582ace43f002fc6e568",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c6d11e88c920bf4b1d51c1c4.npz",
+    "source_sha256": "076ea6a3bc26d33bdb16426928d11669e5f68008f4f02138959fd13776dfbd7f",
+    "released_sha256": "ba08da8338f46a2772ec04eb7d85b44a3c8191357cb82a57659800c05cd725a3",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8ef7c75a7880a5a8f70d841a.npz",
+    "source_sha256": "0a13795fe6dae606d8728730389457113cae2c809b58030c7d296e1acd79f212",
+    "released_sha256": "f4d23e5fe2f2e669cc54b9056a35f57734f84fda1f5c0d92e2af41ec47ac3774",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/997cb60057343dc0efdbe09e.npz",
+    "source_sha256": "cc9f618f432a86ba7e53af7ff6100ba7977129bfde56926ba47d4f7b2fd1277e",
+    "released_sha256": "015e92a30791d00646dbc0db12c5aa2cd34cc13823292f7e0fd2c7c5900a5d2a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9866bedf1dfd8630097a4a13.npz",
+    "source_sha256": "e9adc284b79a13666530734df707fb949af5dff1a750904cf850e8aa6dd1d84c",
+    "released_sha256": "e3ddc357c9c6348a08bbe0fd445326aee83c38817a53608b60db2be47ca6c1e5",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a0a2d9b9e3a41cc6524b147d.npz",
+    "source_sha256": "ff95f5092141e16becf8ec425ba341d86cbb679cf40c5d81220c75d96be3b329",
+    "released_sha256": "b32e927653eb8072af97a41820d23fa905ff8151c2ad1c1ae440ca3cb98c05d6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/55902f9b8ac79d15090f7530.npz",
+    "source_sha256": "d58a365b413372f9668f8a46037cc60a232e479531ac64d0684aa0d806dbfa7f",
+    "released_sha256": "3ffa2966fad3046d1af8145408e21506f35aba0170cc8850459b6714679590b8",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4f36531dc537174156651d92.npz",
+    "source_sha256": "2ab442df9c5f33c06675a4d8125cc0adcaee9090e5714d86e1207af64e112f55",
+    "released_sha256": "15751e1abb1b8e18f9aca176af7bf2a4d7353634ecc519fb12aaf7a207902369",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3e3facb648a531e7afbab4c6.npz",
+    "source_sha256": "b10754cd9a8b35fe754edb6ebdfe9c75013e76c110a4a4d5b8eb99f395f52ee6",
+    "released_sha256": "ccfe8033201941ad10be90929655b8786dc962489ad8319aa95b8e2088c31756",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6471f18a7584cb32034068cd.npz",
+    "source_sha256": "6febcd93f6587ee1111dc0184461e34e6768fa395a1a05eece66c7013115ce2e",
+    "released_sha256": "c126cf4fe5c36422257924000050422cb2fadb0dfe8a7a5afe6dd4523a3e1c93",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6d307b12f80b317202016341.npz",
+    "source_sha256": "f9f9426b9477a1f67bb0902a206634823d50735b74ae7125274841788ccb1c28",
+    "released_sha256": "636bad378391087360fc522edfb5f67a27095eb40bb4e918f05b6a4651fff98b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5816ded1712465aef1b47974.npz",
+    "source_sha256": "07c592a946fd4bf7be03dfce0137864c95a8f811438add6aa20abe5f67cd04c7",
+    "released_sha256": "b88bf5103fd9d47f4ebaa6a4153a2ecd90e9d66c326836ca1f61a5fa2335ed59",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7e45bcc18288ce65ca665c6d.npz",
+    "source_sha256": "d2eded31a42937fe9ebe5eaa27233e80d6cb0b2b3a59ceceebc9f5c11de9dda5",
+    "released_sha256": "2addf85cea65f32bbe12d989b427c72d0322e7647286a61c0fc6a3298e4ed26f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/33ae2b63b5036668ce190400.npz",
+    "source_sha256": "0041cbbd74e48077538801945c3e915139142f0dbbd07dffaae4511e29fbac3e",
+    "released_sha256": "52bdabdd6e21f475d19598885437959a1d3769cfbcb716d37444b3e1c76ab265",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e11d3b1ebb3ac58b828033f5.npz",
+    "source_sha256": "9c7ef1c6a6b27d0b1063dc9d11043c2be646a5284c90f164fca5c866d58a3832",
+    "released_sha256": "97798303da10ae76b043017bc5752ca01d33029de4777e0fbe016350f9be9b40",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/99b92087b53b08c5b93c2ce1.npz",
+    "source_sha256": "452b837db16c9abfd8ea9271f0810e2fa7692fb62d3c350bc8c92a39ae4357cb",
+    "released_sha256": "f8617b189e6ac3e5fe4d2dc3c9e96bd2bfb2260c1d0fa7ea7c70ce624b936241",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7314955d41710a1c6e905fc7.npz",
+    "source_sha256": "8468fc5ae84739ffce5fc79186fe5139f8d2d19d70a0c45cd936cd6b95f660ac",
+    "released_sha256": "b135edb1add9a9eb7b1817a02481e873b9f28961aad967413c724f518ceb1aec",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5910cc3b7a0ac186cf96329d.npz",
+    "source_sha256": "268999cb2273532f8dbe29df966d0b9672ea5023e3eab6122209d5ab5b0092a5",
+    "released_sha256": "8e40670bf83b0ad053fc0226fcfe8970acb478995b1b3fb8e76abdb42b747466",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/35973d573de70631342a126a.npz",
+    "source_sha256": "2b45f0c889609aec331ec20a7cceb34b8aa8a9209e40db46cdab32fff02c78d4",
+    "released_sha256": "c3412d349b7852c1a0784ccfe7fc0f9b77ce9cc974091484ec71c7b862c08aff",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6c4cbf13fb9633b43dd439ab.npz",
+    "source_sha256": "af99f65bde29c2539d7d5d18e03d6a13d86402799a3e6e68d6412320c8635596",
+    "released_sha256": "7bf3b141e2ad29e6a0f0aed4dee5a7df3f93a1e1a0758a2fc662c85095d5b54a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e4847b0844019dfc0d976d12.npz",
+    "source_sha256": "d20b94a84aeb160420e1c904b9f959df345883122c11e3c58ef452ecbf8a4902",
+    "released_sha256": "97a144952bee7205cd6573a4cfa98f0c9688ee41da8c104fc16f1a292dd7f64a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7adbc669a6e4469d6e9ef61b.npz",
+    "source_sha256": "06c99b2a519e09efa203496004a93915a3e2234d79a386f3d7f8e1de21667754",
+    "released_sha256": "9d65b92b23f9b5f163acd670c5fe399d571dc961977dcfc60580b34e3eca2557",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/20600491e0fa3bdc9e0c58f9.npz",
+    "source_sha256": "148b8ccb06f20c5b85b902a926d9723beac154b2fc9e69761b71a8ee878cc3f2",
+    "released_sha256": "4e4e7db013a432118601cd89764e1141b84569cf9ef1e23910072d736f8ea7ad",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d15d9a0075ba5b7ae20389bf.npz",
+    "source_sha256": "63c788e36e610fd5b6826efc20145f2be4fbe1b00bc675056628b6e2ee7772bd",
+    "released_sha256": "b748e9d50314c5e92f8dc86ec05df070116a8d03221440dfbf7026078e4aeb8b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4cce0bf570d66c1df352a12f.npz",
+    "source_sha256": "6b5ffab3f2f60eba7abf6bee697f195dcf61a627ecc82ebccd7df677b3e3517a",
+    "released_sha256": "d2f3234f616690d01a94de36794af2872030060f7cc164c893a8aa8e44ec8449",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5d6138e73a296c518532a881.npz",
+    "source_sha256": "2fb032cfac815521680ce23ed8c3e9529d5b6068b27e2e7a616fd35f13ccaa24",
+    "released_sha256": "173279f8ccb14b4313d7a6c1ea47146c886f2c71a0d5aef8d97af349f51392ea",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b82b0a46174daa6a30ed26b6.npz",
+    "source_sha256": "389b76a06554ae4ebb85cca4b0edd171331cbdadcc6a9ce872e307ce3774963f",
+    "released_sha256": "bd32cd045ea1c99e7f9197eef02eb48539fa1fdcefec7592de313680864c1816",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/55459e24f8209f3a8d759598.npz",
+    "source_sha256": "aa0f322c01bb38c38c03c3d80a7dff52ab2d385ae41861c7a1addc661e615640",
+    "released_sha256": "edc4983854d7f9459aff6d3fd4971834522b0b5ce62403b82c19ee764d234f78",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c28e2af2bd75f6961315edd1.npz",
+    "source_sha256": "3ec6cdaf155ee60041bb87bb0219d175b7ddae16d917c40c4ccb12c597a059f5",
+    "released_sha256": "27551a950a6a766c4c8aefb54d294dda6b9108e3c67256da8eaea6bb760fbd35",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0c0f2d9968c78179ca8636d6.npz",
+    "source_sha256": "e6296c18fcb38f824a0d4affdc55392fde435fb077056018ed8e284f25e4a087",
+    "released_sha256": "949f9d0c1c34c28c809c85eabb2500ce374379af1a00dba34115ca1c4922411f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/77e8a3b76337986ae5505173.npz",
+    "source_sha256": "ef28ca2668d6a78587148dfac6d2cc9d1cf5d5302e0e03d832017bc9152d5d70",
+    "released_sha256": "cf1555a98ebcaf4e3a3498ec7acc4f0107a2e5036b0125c8769cfbd49cb9997e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/34a55d171734ec81f0af0a51.npz",
+    "source_sha256": "440950e6c6fee9df023293ba8a9da5fe3960980b2627f24b7ee5de2004e98209",
+    "released_sha256": "00554f15fa201d9b2e7a4386e5cbe9c5aa816aa83056d33d6d72b0c964891f8b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e3311a8a6880e4c07a155be1.npz",
+    "source_sha256": "db6a3ee5fb2115109f3f9f1bfb34624f304653ae80850500c924369bd73bd157",
+    "released_sha256": "8e038e853d53005a5b67dcaf609e1c7af37c03168ca3a66f832d4896d5aa760f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4ce0952f8b5ae65c1c737034.npz",
+    "source_sha256": "f8f5d9d4868dc9db7e319f405116ce0b0422a8f91c8fbd07f100080074fa5256",
+    "released_sha256": "bd0615012692cc1df1cc88195784b2da4862eb0192c4d5db5fc1a152f3355891",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e092690053a576cf967da7fa.npz",
+    "source_sha256": "ac7b47984dcb54a6fd07a809889c5f56b59b49146cbc3b01705ceb342ab015e9",
+    "released_sha256": "32a5544f1e399ad11158854a3881c8d5acd8223eca0ac9d44dd9d5f3f68545a9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0bb57cfba8e977984bf0496a.npz",
+    "source_sha256": "1d788f477fefca049a344038a8abdf916436b96c6a96474de70416d74bff95bd",
+    "released_sha256": "70dd44c374eda6dfc427c1dcc0c9128688bab57aa96ec335cf28b624e3d1c41b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6c91a61329ac4cdba7053d88.npz",
+    "source_sha256": "86277afe6f39710cb99b999c361b654b59aea705329dc528bdd92a40619a626e",
+    "released_sha256": "f45c3ef3f7ed1c2eeab481ea42d3d7bcdf86b362712e17f440f823298eb25f5d",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/af6dca236a13d0c10b048d16.npz",
+    "source_sha256": "fa3e505c0de673848277718b5070de9fe9d7ec3408e3830903499e432faf0f1c",
+    "released_sha256": "f003c95a44b42db7afd62e0cfeface6e3fb7a4cd2b77e50bf627c32e9a192bb7",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ffb132dc73a9cf0bd9e27b74.npz",
+    "source_sha256": "ff199e001859bd975865e3195e13e89ab1f147ddaf1872410240c96b929370c2",
+    "released_sha256": "6cc541940134325bdddd815124c07c080bef7af37689d8014392dced806b85cb",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7a53f97a307d8ff8b8e99dff.npz",
+    "source_sha256": "018b8a16b2e34759b27692cb86490064b68689709d6e885590cd95b51d6d617d",
+    "released_sha256": "503d3653a69d01d26d3d929c5433f9ee5e617e1617267fbe3f802745fccde0e8",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7a4027f5febeebe7c93b9c1e.npz",
+    "source_sha256": "b83f4bedeb0aecbaf970d4c8e50e502a5123f1156168d42d8f63005c436a5ec9",
+    "released_sha256": "9751a3715b3964c365924e41abc1ce4eae19e7918fbd6d6f3b21bb8d39ab0bf4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b870ba05f1d6d8fbd6659f7d.npz",
+    "source_sha256": "9f431ea0083ef8c1aeda0a12ad1b735821ffeefd0e7f36e12c902216fddac22c",
+    "released_sha256": "d14ab8f19e92e8751c204c606e4fd8c565b9dc3e872519f7082aec98a94ae455",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e37e86ab26ae3dcbac9d2a79.npz",
+    "source_sha256": "a146f21e0563c37bff5a0fb5e184358ec53ab39aa2ad65bd8025e32f1473e442",
+    "released_sha256": "37cab29cc8a292dff9448999c44e7af7826e79bb3d02a5ff14541603db15f1c0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d17a62805f3cf19a83e1b2e3.npz",
+    "source_sha256": "77ede31f22976d350c223bc21323d103abe0e9cca71f95e7a93ebe03a94206da",
+    "released_sha256": "9364a880cfbf7d2f2805fdf5dffd4121d10decd8f324699cce0ef284e4271c5b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/499e1118875ae7eb5cdf0066.npz",
+    "source_sha256": "aec49b0f96d7f249b07a14533ea7049c051e8e3c2fc39ea12c2709bca8b4dc80",
+    "released_sha256": "d7a9be0ac251519de575768a9a2724e4fe32dfb21a96d7c078946bb95cf0e86f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/64969598a3eb2c4fed00fb34.npz",
+    "source_sha256": "114b6252a281c5160c533d2a9c2f9e02c7600c385fb18a70c32e7320e39a0135",
+    "released_sha256": "efdd100eb5b30e8114078c9f3a933ceca7ce83d9d4fc0a2efc7c67e111855899",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/06e8afa6945d734acfc20ce8.npz",
+    "source_sha256": "802a29edbfef5af831358563cbf70c6a934222e97f282fd666bcf89f94761372",
+    "released_sha256": "e6ad30959e305b84cefbf96ba11005f80d63648a6d3549b8f8d4a1afef6bed5b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3a3dcf72b9c95632843b4d58.npz",
+    "source_sha256": "06778273b3ff7ab3ff7807d7d2a23eef09ed87f18db56b0de685ddad0c2bccca",
+    "released_sha256": "582b7a309314b43a4b2003bb8f3ba9618989379546d52c4d12d335e415ba4e7d",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/955524511a2338e7db324510.npz",
+    "source_sha256": "dbaf313beed6b5a75d5b2b131ada2c93e7ae6012d451a07c44ea9b6b52806734",
+    "released_sha256": "141298b8d532fba215f22fddd9d94e0c281bc774bcf54c4e4395c454cd795957",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/2ae95a05c94a0f3de992bf1e.npz",
+    "source_sha256": "bd4d1b5005cf6c218881e094c7dda9ce1b526f1b22e47beb9190ce96a89c6b18",
+    "released_sha256": "71db421814c0f4ff947fcece5bd49f0d72bb2ffe79f3e8044a8909053c3861e2",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6b44fd980e1261ce5b798ea6.npz",
+    "source_sha256": "8fb349c2099092b1eec45247db7ae1c940f7e4bf0141be9e7a16141fd8c4346e",
+    "released_sha256": "ddfeeb6a2bd750fcdea942faea16be5309032acc18fc3dd13bc977c446ee1258",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9d77dea67d91e399d860d417.npz",
+    "source_sha256": "90fa80238b3695389aa96afa5f90aea4e07a634855d65d81e7eaa0cad6e33ffb",
+    "released_sha256": "417950603054b8816448ec044da232c16757ae1f72db11b15e0d5fef7feeedf6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/38993c565a350daf2381c93b.npz",
+    "source_sha256": "77e4c9c03dd30daefd18db25d01c92b1eaada645638e947834ecad2a2fb26384",
+    "released_sha256": "d3c08c948744d2ed9e75a3eede42e27d7927ff1dd649691a591837d43e541837",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ccd7faa0524cacb6d8c6c673.npz",
+    "source_sha256": "626bc31216602f8223835a28a6b57b7ccec08bc4abcc25a2766d00013d5067b5",
+    "released_sha256": "e2084ec1ca1bf8814e115876deb48733ce6643abede9772e866faf44dd45b585",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ec9f7fd9dba50b97a6204c38.npz",
+    "source_sha256": "fdddcea76b3848c638491c96b80017f4e05cd54f22e88cbc92c9489f21c219ab",
+    "released_sha256": "1fa5ed172a03c45ba02264dc76ca16ba2b24ff70c7508b5764256ef351c4e774",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8f8ef7660e422eef98aa68f4.npz",
+    "source_sha256": "babb532da697d2099400b20726cb4fcafbd529916e30329ac9bd3935bb7b2cd6",
+    "released_sha256": "373caa3cf571189cb6444357cb5e708ba6d426951f210476e4391a535cd4ba99",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ecde230da78e55a686c28d73.npz",
+    "source_sha256": "0a46db476e9e9a80cba09bb069a9e548931d57f99ff0dd6c16ae7580645367e4",
+    "released_sha256": "073102790f909f5541b3cde12e2bbc914c4dd0d2672ab30f7ef13dd61c56c3d5",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e340d6a1fb4275fa3438a0e9.npz",
+    "source_sha256": "6ee4126d3f3c87a9bdf5d3f09142a58e336ee215f246aac78acabf39f57e7981",
+    "released_sha256": "dd6ca69cf3591d6b41e44003333d995328fec9dc07b68eef83f76b2f2ae82502",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c42a6812ad82a4a2dd5f9c1f.npz",
+    "source_sha256": "ce5a1c86e22daf99bb35cb089fdfbf43ed12f2ea45b68b2a52284aeaf2c5a7ea",
+    "released_sha256": "42db7adc785925e7a426b8e45b83c16ead0a0268962e6ceee70a1d38918f6ffe",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8d06990432880d76ffc3b272.npz",
+    "source_sha256": "27a02291fad0799354276758d2de5a1cd914e7587b2d9d87dec4a37352904448",
+    "released_sha256": "09c643c826ed112c52dfd13b9ce7431880ce3c0ee80a18e1674ae99484275f9a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/fd44b6abea91f441a6f79adf.npz",
+    "source_sha256": "698e4202ddee337090a6bc17a8dc045bacea884c9e6bbc0561a09003f10543aa",
+    "released_sha256": "d8c7545a7810bf6292e6e33266ba2fddfa7efbf78fe807dd0de91045c4d714e6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8956d197f594110c017fac49.npz",
+    "source_sha256": "5818cbfe31d3180f0f26404491b497678d532c61d103c805d63812fb1b308f79",
+    "released_sha256": "9b9d65fc17d6b0911f6afbc23062171ec49017e7452147478169eb74d64c18d0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/976ab78e97d394f5c3ff01fc.npz",
+    "source_sha256": "c59c6c69fff7d2b877d5f15d84524f89c9f97c5ed8eafe67921cf859b37fca6d",
+    "released_sha256": "58cce8dc2131550071e9bd2db628a0620d30b3f96d48d7c1abf16faae7cc05b6",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8ef9ef2ce461d0a1a4aa3451.npz",
+    "source_sha256": "b7fdf06f80e23794d6c4b146f7bf0d53f142db83d4dbc1c782c7313d162ee927",
+    "released_sha256": "e47367924a2a9f8fb1671ca87abb1cea7810aca97168690d9d92844ed4048b55",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3879815778d5ca46b32f7ca4.npz",
+    "source_sha256": "9151f0e63361905a77eddd233eddd5d4f93bda2c1d15587b8a051cdc53e0336c",
+    "released_sha256": "f50adb1d812dd101903ce1dbffc53d39e78ec7283109d318ec27ab6a14a7ec2c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/6956801e4dadd672aafc0c6c.npz",
+    "source_sha256": "3b0b4e3a0dbcba145eb7baa1a73c7955688d67ef6faeb60b08d0910a15a7e513",
+    "released_sha256": "e55480856b44488ff4cdb5f08f1bc1cda0618c5976805d7b95c5bb7b1488d9ae",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/250259fa60c32492eec1086d.npz",
+    "source_sha256": "d3c85e08d03129a22fe6d6b808186a2ea56d93c815d409507e82e9c7d6d819a3",
+    "released_sha256": "38a9c371693a648675eeb805f0434dfb7e4277e62d81ccc3cf343e9b74a1a93a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9af69706e8837df8fcb7e044.npz",
+    "source_sha256": "a504c969d91f0fc57b31a373c72b2da713654459645a170252feedc86050f581",
+    "released_sha256": "ba5b5c0ce3ed354b8adaa094f51a0d909823c0e3c03cb6cc2c80abf8bba93e25",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4e9a0addc638cd67d4fbb2c9.npz",
+    "source_sha256": "8c48639268f310577a1fb3bc9711f09a8a7ab70f126bf6c65638e3f9ff6cfe6a",
+    "released_sha256": "842f08deb4b555227e3fd15deab5238fe44c702f090932c1f2ed027142f73849",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/2cfcba1765a4ac01adb6168e.npz",
+    "source_sha256": "78aa2847916b2a88079f8b348cea68f0d66a048bfd7dfe7204eb523e50747cf9",
+    "released_sha256": "0a1364ee3b60ad0f9f21341c81881537db9a6530e4dbaa379e301c781c687c38",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1018f02e5d6b632db739af3d.npz",
+    "source_sha256": "415af2ea16ed129052c634bfb86652b274e1a2751c9568629e2b61d3615b12fc",
+    "released_sha256": "41dcc917d8104d7511e05eb2ca424d87f123a15daa8bbf580ade88d3f04057c7",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/40b38ea16d8b2a415fc96817.npz",
+    "source_sha256": "a355f5a1c2fd296dcfb214c9f99cfb40d88442618f41ac481793c9c9f493d1ed",
+    "released_sha256": "75c6a928bc52193b43e242277cef2b7d60dbc491477822465fcb45499cd23690",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7a1ca0d80a33615b4510b5bc.npz",
+    "source_sha256": "b4290f5a41ea9dee44caf4add4758399d9bc07440d5372b3a84d58e55d0bdbf1",
+    "released_sha256": "668b7b80e8921dd12a8b1b7a4f05070ff69f59e8c7ecb9cc9f646ed23624e9dd",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/11f6d6aa03b5177492f8f3cb.npz",
+    "source_sha256": "8a45120fbce0cf717f2ed88bc168240d62cfd5333cc1ec4bfca7ba4ef2186180",
+    "released_sha256": "4a3ce5a61032338503294fe75281cd929c0a6db8147e6ef5bcefa0c45847a6ed",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b54186c77a9dfbf402073220.npz",
+    "source_sha256": "cad17afa0fd3896bccbfbfa9cbd10e5bcaf9346b8747b5f4bd29bca937426854",
+    "released_sha256": "1aa50b7749ba208e174f021e6f3e8759b6a559a48e5a96c3ae8edddcf3bb72c7",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7b6a62bcff0bef39aec5a023.npz",
+    "source_sha256": "282a371a9c9a5fa95b862b887c007855ab35328226f25c65f57650b70468a838",
+    "released_sha256": "17859228d6b3ae848fdbad3da1d291557ea9245a633f18b9993dd18cef52855f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/eca2973cc37edfac7303eb2e.npz",
+    "source_sha256": "0a3ee84422f9636497c81fd6d62754a00b55546072ad93479c75afe7531836ca",
+    "released_sha256": "6cc0c21d2a29a3ff0af3691307ed25f534990f3a0d30b1cd4b38b318e6f18e57",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/51c169ec5bb6ca47e77c867a.npz",
+    "source_sha256": "b953ebf09b4d15fea8684c71503673b0aa2566c09a330e6f390111dc57ef4d89",
+    "released_sha256": "d444c9177c7ac526b52f3e8c073c2281a4faf3541eea71226aabe58ea480e364",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/533ddcefec045999e1030d05.npz",
+    "source_sha256": "2c469246fca0fe1ed427bd4c7da2e0231aed1c9ab41b597fddd0344aea12f7b7",
+    "released_sha256": "a53a34e3ac1398f4044763fd280e8c050d4fdd301794a04e39981748b6d4a5b4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/85378226f41d763e9be95214.npz",
+    "source_sha256": "12e48c1417e5a676e78505ca98f11851cb5bf63a957f60c307c449b75657f222",
+    "released_sha256": "f5dbeec1bc205fcc8c57d30639726690fc27547a8d303e3f3e5da7349399f121",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0fb7558939c4912276f32c3f.npz",
+    "source_sha256": "7c1d090bfaf589e4e93974c976c82fb459515c5b68c7ce0b26f9b1d6f4b53123",
+    "released_sha256": "204bdb36e7e15b931761f338c42f341b4394f90bae92407d334ab43b5787fdff",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3e330958ce05c5c95dbb38f5.npz",
+    "source_sha256": "fc114f9ac854cae19601010fdfed2849b4e47be87c0c78b177cb55ed3cfba555",
+    "released_sha256": "2cc54c9ebf8409a1211395424000d6bc4089a45f2b2821b4accb010e516a2c9d",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/cf4ad68ddfd1086331f9bc29.npz",
+    "source_sha256": "e5b9f8504db749c983903773b058856f64796d15ac939dd4eb21d3952d981c00",
+    "released_sha256": "dbbc372b69b8bbe9c72d46aebc0d3a9b385a4cecdd37c6bd1ce36972e3e53c73",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8617b1daf9587a6208d74569.npz",
+    "source_sha256": "c47b39a5dd6659f9f007798bfbb304fa4bf40db668499a2254213cd8bca74f25",
+    "released_sha256": "ac7bc7eebbf8c1dd7088bf23a83593dcf469cc5f7640e806dd84cbc409695c57",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c309388c40270118022c440b.npz",
+    "source_sha256": "cd6984bdc378549af4d556d15e1829231f1aa0e141ea68c4b753fa6af59ef864",
+    "released_sha256": "43e90a7f6794ebff54d62a068b39a28e45f6359229ae73312b8194395e68c63b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/67d33542577ff8adf75cae28.npz",
+    "source_sha256": "3ba9b60a99a136badbe58d4588b7434a5fcca8fc2b93f7a3223ed2a6ca8e7f48",
+    "released_sha256": "e2f894f7cd1dd410bda8f6a63cc670863f8d9fd3da14103813b1acc26f25db97",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1d4dbeab9ccee4462e984a38.npz",
+    "source_sha256": "9a63dcece9220372ee78a13a02ba75f338d65ed2c1d074763acbdaaa03fe977e",
+    "released_sha256": "6814aa875da74cc8cb1317c262f78c7a7754920324efd8be376c2e2b7cdf9545",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1eabbe8f70031ef7bb1a74b2.npz",
+    "source_sha256": "c6798484961779f03d1ca6c02f4c82e2a165d5a1e787b0a6e73996cb49f22337",
+    "released_sha256": "233ddd41b0cee3070da08110680301c03e9897a18b12b8a2ed47de9ca9025804",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d0571dd5f7c3f55c94bd087a.npz",
+    "source_sha256": "1b34d2168c771b3f97031f9aac8a8f2034936eb9fa8160aed3100ba7dea86e85",
+    "released_sha256": "9844e6a31406d59098e6a214cbebbb0e4d0784bec7f97ba7d0e71d37bb99dee1",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8b7e91f3d4abd566e152581f.npz",
+    "source_sha256": "27e39b60c2d4ab522cfc1e147919b78edb01d56c566610db0accf48b2bd5aa52",
+    "released_sha256": "294d750a44170fa47ad6d2d024137e6fe8e26b85509cfdac0b96d31d0192d511",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/79a827986132018aa644ebd5.npz",
+    "source_sha256": "6a989981f1f76b616464f0519b478fc18765fa85c8dc86b6a47f7d12be2969b3",
+    "released_sha256": "502d7a5ea419cad875209f5187915175f42ce476c7eb75982d2bda672c48e3e1",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c72720fc22361516973d244d.npz",
+    "source_sha256": "fc1e3ddaeff443af1101346c7887c38b7326aecfc878558d57020cf9dd5cc040",
+    "released_sha256": "1b07f8ba1cb7e2096acc3bd11bb25c4925c37048e8eac61bfbdffb684fede0db",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/79d5fb4654e7cb80e213d0a3.npz",
+    "source_sha256": "6df3ecfc458ed383d231b9c6fead5d4f2cd651ef3aec29331f82cd336cea699a",
+    "released_sha256": "d57034c38aa97f60d101e9b0578291e3894ac04c95947a2ca400dcd7df26dd16",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9f9cb1c0ac877211d1d81f16.npz",
+    "source_sha256": "50e9188f3302792e72108d559a951937452db652a2a48a4a2f2519561f0a2f6f",
+    "released_sha256": "94caa4bc35d8949cbcd9b999c0f4250b4d17e71f13de14e72e69d398dcbe764c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d1e2c7277ac782226138c28e.npz",
+    "source_sha256": "7a5873880339e0f55c28436f5fad02b8d65ec622e68186c087574431081479bd",
+    "released_sha256": "93101df999ec44aafaced33b46df657e91a10f72931fd69d95686cf45f7674b3",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0e668778a85e4ae4722e6534.npz",
+    "source_sha256": "799e76b3d628d1fce12e0cb9cb6635349cfee2f98467f230d7dd0c0c0600a4f9",
+    "released_sha256": "a5265cb30ec58ca1b7b170655f4bb8541d849d76742096a4a2b67af8620d8079",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8f42cc6c02c91153cdeedf57.npz",
+    "source_sha256": "32c5dfe5842fdbc0822692f38fa89dc8a8dff5d9e4017937d36900c44123d35e",
+    "released_sha256": "12363e322d991ae6bc9f4abce879476ef2d44a53e7311783a168ad0d65124d36",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/51438e7aac58719c00c97b6b.npz",
+    "source_sha256": "4aa102a5fe30863e8782285321f36dd48608ce46fddea1d21fe35a741398f045",
+    "released_sha256": "2175bf5d5b697b73a211b2506ee2a7f8905c78b62603675c76c1a1a85a651d63",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1ebc63f2b17d1c335c39f7ca.npz",
+    "source_sha256": "da0435b4893b676ef891256cfed30b735792213e8937a82103007b45640d20b7",
+    "released_sha256": "3130432d296af1299dd60d91f20d87680b3c60e27cfd7d9cc61f7613352a942f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e7afc16273a920b33ccc45a6.npz",
+    "source_sha256": "6af907a485d528cf4f8cd1c7f3e92f45c5e661a06a350173797ea8acd8693ecf",
+    "released_sha256": "26ccd9923764ca8a1c83407cb44ecb03ec9c153064c6f42474a631732cf42b3b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/875047db59f89eb95d1e5c24.npz",
+    "source_sha256": "ae98f56d9d4ab00a94c21bd86dce9495f6a171f2ab2f5d0fae9ffc2a507e28a9",
+    "released_sha256": "dc9c8fc8d512f695648bddd829dc32035debd6998a6eec812af4165aa3911748",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a95d2e0c76db9d5349495221.npz",
+    "source_sha256": "896d75d5d2bf53e72541915bb0323f49940d5efc671667285aea0422a1a65449",
+    "released_sha256": "35ae310edf01de7be7c95a7cafaa6aed0fcc8274cc2771b88fc6b8d5c88dc7d4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a1e98eb7c1524338a437d339.npz",
+    "source_sha256": "3c5600ad980e3deccd695015dcc4f2f8048040b7fa531b3efdc4bf890eaab962",
+    "released_sha256": "b27de6caac175086cbc4f2844860c3248c3245f3cd72f7d023f8d41f964b34f2",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/63d74c18d63519a3975fc469.npz",
+    "source_sha256": "141e9a88bcedd72553a9749e770826a36f3b18fe5721239e8299b6062bdc8915",
+    "released_sha256": "faaf3f804dbf8aedabc48c2c8d7d1e049802b0eabf82339399e9a7f2f7804b5e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b205c81e19322cd01a1cec0b.npz",
+    "source_sha256": "c37d64840f55d3207da64ddedf4d6a4b72b53cfdea26a2c433e834c3edd7ecf8",
+    "released_sha256": "92bf8257d5329dba72a36c3884638d0cc08bf37015d72aea918d596cceaf7dd5",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/eb3ec5ce8ea9bac812f4d33a.npz",
+    "source_sha256": "b4bb97d68f49a9be53b31dda167725846f71946b4edbc1a5d720569a54556a03",
+    "released_sha256": "2806137695c2040e979b7483502f62682e6bc0d9a1b5e4d368e864b4eea6ed09",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a8976aa40effe7d8ad338e82.npz",
+    "source_sha256": "b72a57f116de202f9c7f240b4cfe5f3cf001d5f6a5b00160bc2c36574fb1e2b6",
+    "released_sha256": "1122bb9d3f04effc8dec54c38447ea7a5706a4da9b6598eb0042629f354811fd",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9325c537500bbd0ecb1af935.npz",
+    "source_sha256": "4908b0d961d970bdada57b2b3bbcae0bac98edb0bec3c2fa86b06348d0475ad7",
+    "released_sha256": "b7e579c7437a62d73a241bebf111bf97cca441e340a93fc3dc240bbdca754561",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/dfb75e09d7c6aacdd43a0d5b.npz",
+    "source_sha256": "2b2eea391d993e1203884d98336510547958ab5a2c5a65d6534140db280b619e",
+    "released_sha256": "73471797f975af9549257de78215e76b77d2d5eae9ff3b7b41b53628b334aeab",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/f2948908c629aa7fe979d05d.npz",
+    "source_sha256": "d70137a9dc70220a13b6dd0fb55bed8f53c9245f17b4c439357472635bc1cbdf",
+    "released_sha256": "3746ffd71adc3a41e64c79a23ecbc614b6a6c36210d3bc73615bc60a6177b3ce",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1dbc88d92acd3eb3e7be4ad9.npz",
+    "source_sha256": "28b1ca78d0f4de453faaa25f6148bd7160f86e4c016100d277382ba6d763588a",
+    "released_sha256": "ace6ed1ba4fb875ba4ee5f9bb2d84b4eb07e5dadaf0d24768e80bedfedc2b25f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5e12a6165da64ee74c677bfd.npz",
+    "source_sha256": "b0832c3c32a100a71666394351a1263e302c37f6955a466a9118896854f7aa69",
+    "released_sha256": "320f9fc3fd075ae2db2f65536ffb914a31a1f6535904c9f3b365f260985d0e1e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/494fc3f7afc9656eed5905cd.npz",
+    "source_sha256": "d8ba85c892c95b61f99f43ea7da894e46cd4e2c617aacdc61db76779be8717b2",
+    "released_sha256": "73deafc2225720f00f498f8e533cfddf3575b261c8e2b113315975ea84734b24",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/2ccaa029a7943971284cfaa5.npz",
+    "source_sha256": "734d59ffb5495d4582efe51787fd402603f2822890e9bd899df114ba142375ad",
+    "released_sha256": "4ba2cd4bbd086258c5891ef4c8a32c591d1fc80322db38815a2f4b200e6e2b73",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d73b47fd4e13505b703462de.npz",
+    "source_sha256": "febf489e6cd322d324ef80568ae2b1996704b903e5c779f2479aae6d6f77d2a1",
+    "released_sha256": "b4fffbf6846a2a450852e9dea79e4a92e747bb0303adbf6bb4d4e6eee295b370",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/91c74f2887c9ad1e8d8e6bac.npz",
+    "source_sha256": "28097a218f85d961f7991f80800611152c2453074af0f4e5cffe057161998a77",
+    "released_sha256": "5a891b3f08fd85142fe99af587a790fdff5a988d939649cc60170641fd02c256",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5fa76e654102e6920546f78c.npz",
+    "source_sha256": "906b8d454e876fc01f8fc9de4391d1d60a34db0aa275f9219c9be36d6ea8e6e5",
+    "released_sha256": "9dc74435b396e0488b1f5b69cafc4b28331ed5771bea11b1368c8333e41b53c4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/2519e4aa23d8eb59eefc2a9a.npz",
+    "source_sha256": "3e6e9e0b05636564bec460b99fc73cbc836a3a3c2e0aaff77e9276fc5b47a852",
+    "released_sha256": "0ef049c18ef6398e7675596b0ed9e93369410f08e86b7ca8c199cd8f49b1c3df",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9253e6dc6659ca56e4b22ef9.npz",
+    "source_sha256": "7f449f0e330db0b61b987e19c72c94d2548bd56612c7d673268b11784b90450c",
+    "released_sha256": "fedb4e4ad158660c2093c6ff5cb199815c97605e33b01cda34837e16ea86c947",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/762374aebf3ed05829dd13ca.npz",
+    "source_sha256": "edf4b6489866235836087d9d20fb5f20dd71b0860c88b29ffe479a440b86b7bb",
+    "released_sha256": "9f4acc966aadaf7e65be69626f1e7923d5492ebcb2d80f70e2630913fbb51674",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ffdfcc93eaa4ae3fa95cfbef.npz",
+    "source_sha256": "b7e394ac626467031e98dd3848837b50f9b1b614e9f62c9e1325d5349041ba56",
+    "released_sha256": "b6fd3dd73d2412954db1b1d5d39e51cd4504da1e10626507c2d10f74171eb9d4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/50802755234837bd18fe65e4.npz",
+    "source_sha256": "1eece751d31e78d0b71709a681f24be4afa58958647be89f05166b591fda61b8",
+    "released_sha256": "fec71e23240855ccae73211c01ab659033257d69844dafd6c5f7765eafd99f29",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/79167c71932895db6be8b07c.npz",
+    "source_sha256": "96dca3a6157b37e9f5c1dba919950ef4c38c2c846ae7983827d7a1a14da2ccd3",
+    "released_sha256": "361a2d5e96aa3d9a2a7c5b0d1d65439ffa70732860d61c5bd51430cd23808690",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7ca9fb1a44aee762d1ea8270.npz",
+    "source_sha256": "ed0ed318e2ba7b1fe274dc79a944f5c49b70d20c326f7f3114f92b1bde779f57",
+    "released_sha256": "14423c68b65085e59d59dba0589e0b06b2c658b413beeb63e8ef8e13a1ae2c88",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/d0643a8e1dae2c7ea7016e9f.npz",
+    "source_sha256": "09a58891b990d6d37c4cd475e605993f13bddbd045f5f7693bc4d05097bb8118",
+    "released_sha256": "0472ca44a8df51a9fe2a45a52ed34a87ff7a2e004d97ca43b21e316b3d71a0cf",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/1974a280f3579ffba0bf9f55.npz",
+    "source_sha256": "657f3f10192c3159577b488390c8877876831f8c3f7c45c2a0572c41f00a82ba",
+    "released_sha256": "99810ed2a3068a162ecc75223cd9acddb7650822d1ab413ed23df3da2fe4b82d",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/4d37880d079d0539859e02ec.npz",
+    "source_sha256": "7b30bf528d0cc6e06b1ceed9a0bb63434513022d541bf2373cc5d86871d159f0",
+    "released_sha256": "b19a63ebc43e77d1241649745ae427e3b0be73bf3d0bb0a2b2deb0e60bafcfef",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c78ae079219c316daa6cbee2.npz",
+    "source_sha256": "3d019b437033695f30222daa07c11b431097d331776d309f0c0e9ad4bd153da7",
+    "released_sha256": "0ded289f4fd4a41e70b61417589015571ba608c62aec45a7cb3774f3f0c72723",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/992201207970ed1dbe2bee30.npz",
+    "source_sha256": "6a5e16de1cb5100e4eeb129dfadff6480a25bbd3f35f9ad3e68f294c6d9175d6",
+    "released_sha256": "ea013df17da78b25c32730e51de490e1193fa6411859469495f46463bf4d693b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/53b2eb1fb3a12d1a40361fa7.npz",
+    "source_sha256": "9130460eb2146f5093ac7a25cd80022467e399e1eb429516b5cc0ad232bbe524",
+    "released_sha256": "0c33d34c313d68cdb92717decf2efa0f97ab733c5f782a0f6d61558d649f68a8",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/62670d4fba374cf863651c36.npz",
+    "source_sha256": "6140996762b73187db37dead116477518d5d78bb0030d873393ed1e568a0550b",
+    "released_sha256": "542cb433a62a4dcbf84ca2f6263544d93707aaeda67003b4b098e71632cbeb6e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/047e40392b29170d214baa00.npz",
+    "source_sha256": "4dcfd78b3b644a465afbd3499297caa24e404715f8d20b62c9cefd4dcf9cd33b",
+    "released_sha256": "a5f9746fc9b8e083d45283dad12589b8e8bf59015ff81e007111aa9824c41e1f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7315ef3e5c46a6293f1e4d72.npz",
+    "source_sha256": "7bf8a775ab2bf0b8da849e10317383090a6f64671dee0e2607da343743815a4e",
+    "released_sha256": "af238676db3c00cc2c6f971fd890321bdd5d217caeb64fc868c72f03efbede64",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/e6ab61f90443f0725c5a374f.npz",
+    "source_sha256": "2fa6666befb3d6b74bbc7896ce33b0c1390cb4e45333ee9cf806b571e27b9570",
+    "released_sha256": "ef807d1af1d42b6a55d91fc3a71a866b2b9d97bfb67110354d4876424520e4fd",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/f360a54bca35bd893976bb7a.npz",
+    "source_sha256": "9e6a2b2ef7e3c2163aa2d7e42c373b5102916b6912cb979275023b928fdb8129",
+    "released_sha256": "a397d235750f6f2eba5f907e1f039b8716f2edbeb5addc6d5f367007b63f1f99",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7724a7c0c5c92397de5a5e9a.npz",
+    "source_sha256": "4afb79d9c6d5f6b9d274c3b846d46e0d8cc6daf36742a14c8795f250f27e93e3",
+    "released_sha256": "550b8cac58ee81eb7074e74d19d462550165abff652a0891b6a764475827b33b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/0d13ca70f4827faba9a7f15e.npz",
+    "source_sha256": "26dc92893d89cb77f3c321f9d95605ec865a03ee30277c1f44aa623ca0dbe3b7",
+    "released_sha256": "a67f299e44d866bb3206e273acf874505e353977ab3b98ec9aa66887870bc60c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/194b43e4270abdbf667a4518.npz",
+    "source_sha256": "737563a9a7980a73b5566e45ed4e554ef894068b1d329a3a655a4a0e9b95cc8d",
+    "released_sha256": "e65db062a214e12c018110b5bce87cd27980e1bdd811c8feb2cc7dafa169aa47",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/c1f984268ae880544128c7c2.npz",
+    "source_sha256": "52d88ae6ab11998129c6b5dc24eb54b6c0fc60963de0e74fdc2b39306b6a34ab",
+    "released_sha256": "0d8d2793ffd4d92f85a56ec57508338efa2b604b1f2e6cb8a818fcdfc5cc0180",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b9d4a71a9e4875f0c79fe9f9.npz",
+    "source_sha256": "0d14cc71853310b76e896e99ecc8a6d7a83525df4488d2640c00a63b271d88dd",
+    "released_sha256": "dc365e7b28fd25b1116dad9ab7e415e0772856b71bd1cc8926b17a9bf3c56b52",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/7d7ff9b87f926819c4c356b3.npz",
+    "source_sha256": "f8aab6cfe9339d166a59f09a0b694edb797a4df9e5f371c23a1531e95a7c3709",
+    "released_sha256": "f38c0c10e0b469e84570fa02f465c32df12aa1fb3528548754975ae9d9c8e5ed",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/24fb99fdc2ab60c88385c6e2.npz",
+    "source_sha256": "59fc79edad8c48865ae96111f7406a655c1ac9961ea9e890c33550748bbc705b",
+    "released_sha256": "d7921a0cdc68d3f7d150e9df2ef2db07ee65f1b1f5a812bcf00221c8a47fda5e",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/87a840a2b3e0ccdd862567cf.npz",
+    "source_sha256": "5441ac1baa811b520f8fcda31c7ae04e55d05f622bd75a86b54df26264afec6c",
+    "released_sha256": "8e3d6314b033b17ccf8bbc1f8a44400005ffdf831a2c66718b7881dbbf7d6f2a",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a8fbc5b991762e2cdfdb97ff.npz",
+    "source_sha256": "84e66f0415674ed759b41bb6ffe1444fe16a59878c0e623a5d0b351a3a8801ce",
+    "released_sha256": "1436ad78e2bd96a27dfbb965380933f213e5f681c659bd82f8e0d262a96ce873",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8afac1869207027d18d911d7.npz",
+    "source_sha256": "1face79f4ae2659ba04bdc4d0d11889c682f86441d3954a3862ca41c2abef750",
+    "released_sha256": "5cb08ef95c0bd620f0e5bdb7c70d8598f446bdf846dfb2a8ac24da5b3a4a9e58",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/8ccabf00b4c201837ec1a756.npz",
+    "source_sha256": "a4b5f031037d014cf2f8522b3d13c1d1a7acd866c36c4d62e4190839b5725bef",
+    "released_sha256": "7371104b0b68e2d550d915377fcc556efcf9c5b2da6c2730a013374e8054bd11",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/a437d664c8c86f03612ed8f9.npz",
+    "source_sha256": "42e0e9a1a10fb91055ffd7782e552867b65edf16b0f70f449594bf76417a51b0",
+    "released_sha256": "5bd967502ec92f800b3fa1869bcdd94b187828490b61f7c4a83ecfcddd60238c",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ca45612f02a3fc4a705efedc.npz",
+    "source_sha256": "7da27de7cdde95722f2bf957b7a1c3edd3199d34952be7f4e6fa05d8830a1fac",
+    "released_sha256": "a54f79798456d945c23b32ec268e6a0dcefcfe029db393a5a3dd378ed0b08b24",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/49c31c08d93eba4b670b5d41.npz",
+    "source_sha256": "621805ce29a04cdc09744aac974c58c4278c030b83078e2f8706f41db9bc007f",
+    "released_sha256": "f06af64ef311464ef924e07b4c2fb68947312b5c506806338f649ac57bb6d069",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/81eb38e45bcb9aa93facfe05.npz",
+    "source_sha256": "a6def8cfd01a8ff5cad04eb3e996a43d72ac103c6dc32106cc68cc70e52af72f",
+    "released_sha256": "2ec4834ad2abc9a4434465925a8850684c7f7c4e1b81ee916cc40cd35f57533f",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/3d5d9a660cef39c6ad1987f4.npz",
+    "source_sha256": "34910baca75c5349df681460f309c79a052ec6c4911ba20ab92a0b951fc85452",
+    "released_sha256": "0e748c5acad3ee71b7d0f480bd2aad6757d5174f3ec03630241e9b0e75b009a4",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/807e15c13d3413eaef1c7d55.npz",
+    "source_sha256": "db91e560cda1b602f3a269b012d2bc301fd645a2c4d2ee773ddf8738d27bd376",
+    "released_sha256": "300b08acd6a661885904f58a4c3ad03a3cde737c10cf1852b2d81e806d783518",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/588cf8badd4d69f93bbef7ef.npz",
+    "source_sha256": "2184d5a8f9786a39ac750323c3732b2729c1aba3ac28b37df60bcfb9edcc30bc",
+    "released_sha256": "b05df80f7144d2e978eb1c5c235653a84f16d454649012260f36711029a54a07",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/037dc848726ee8dc27e7dc1e.npz",
+    "source_sha256": "f53a49d88e44eb3c1afc1f8c02af6195a201136a4a8f67570c90bacd331d41d1",
+    "released_sha256": "7dac7d9078484f9ea6defc47b952d06b08f4a211fa0bc53334cf686d6b692acc",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/ac45e2286cec05f53c5526e9.npz",
+    "source_sha256": "2c8d49c1809b9427c98d266447d6b8c36a5be92f1cf949229c1c443f05e1adb1",
+    "released_sha256": "685cd3726b0a31d1c9b49678f984e111cde83b57f6fdb461e7ee8f3c144ddec0",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/5dfff3e16bfcc96586c23e33.npz",
+    "source_sha256": "fcf7e067565bce6dbd72e441f794dd3e8a56f6fec1d82deb0a0a3dc41aff818d",
+    "released_sha256": "87ac19280cbb0c4b231c82796c534daaf8879eadff0a8728199de8476cd575ef",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/b2115d04715c5c8cc73eafa1.npz",
+    "source_sha256": "93c179d216c7c7e87236c155f6b1d9303ef822c7b1d48b28aad315697bd77b59",
+    "released_sha256": "5bc3fb0b079ec964f9f945a4257e8e86630630ef73f5ae5f3ab982914253c9a9",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/9f2d497faaaa7e488c7e4ace.npz",
+    "source_sha256": "353a08fe25a1346e602335e83cfc31edef5c711be7aa20feaed173d74221abf8",
+    "released_sha256": "1a7acf260d1bf75e81b931cc296e0347f65d90d010d7f57dc2db079689c8da83",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  },
+  {
+    "fixture": "fixtures/robotwin_a2b/61224304871c93b917026dd9.npz",
+    "source_sha256": "1b7a5fae7976990aec0e07f98df28d0d23a913a4131f807bc11c45145a876550",
+    "released_sha256": "065008384095d13901a3836c7e14216abc2837535a2c95fe7936a2bc42e9b81b",
+    "change": "Only trajectory_path relocated; data arrays unchanged"
+  }
+]

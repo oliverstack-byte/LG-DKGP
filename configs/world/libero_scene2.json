@@ -1,0 +1,115 @@
+{
+  "action_block": 5,
+  "action_dim": 7,
+  "action_normalizer": "configs/normalization/libero_scene2.json",
+  "embed_dim": 512,
+  "environment": "libero_scene2",
+  "frameskip": 5,
+  "history_size": 3,
+  "img_size": 224,
+  "latent_dim": 512,
+  "loader": {
+    "batch_size": 64,
+    "num_workers": 2,
+    "persistent_workers": true,
+    "pin_memory": true,
+    "prefetch_factor": 1
+  },
+  "loss": {
+    "sigreg": {
+      "kwargs": {
+        "knots": 17,
+        "num_proj": 1024
+      },
+      "weight": 0.09
+    }
+  },
+  "max_epochs": 10,
+  "model": {
+    "_target_": "lgdkgp.models.world.multiview.MultiViewJEPA",
+    "action_encoder": {
+      "_target_": "lgdkgp.models.world.blocks.Embedder",
+      "emb_dim": 512,
+      "input_dim": 35
+    },
+    "encoder": {
+      "_target_": "stable_pretraining.backbone.utils.vit_hf",
+      "image_size": 224,
+      "patch_size": 14,
+      "pretrained": false,
+      "size": "tiny",
+      "use_mask_token": false
+    },
+    "pred_proj": {
+      "_target_": "lgdkgp.models.world.blocks.MLP",
+      "hidden_dim": 2048,
+      "input_dim": 512,
+      "norm_fn": {
+        "_partial_": true,
+        "_target_": "torch.nn.BatchNorm1d"
+      },
+      "output_dim": 512
+    },
+    "predictor": {
+      "_target_": "lgdkgp.models.world.blocks.ARPredictor",
+      "depth": 6,
+      "dim_head": 64,
+      "dropout": 0.1,
+      "emb_dropout": 0.0,
+      "heads": 16,
+      "hidden_dim": 512,
+      "input_dim": 512,
+      "mlp_dim": 2048,
+      "num_frames": 3,
+      "output_dim": 512
+    },
+    "projector": {
+      "_target_": "lgdkgp.models.world.blocks.MLP",
+      "hidden_dim": 2048,
+      "input_dim": 192,
+      "norm_fn": {
+        "_partial_": true,
+        "_target_": "torch.nn.BatchNorm1d"
+      },
+      "output_dim": 192
+    },
+    "view_keys": [
+      "pixels",
+      "wrist_pixels"
+    ],
+    "fusion": {
+      "_target_": "lgdkgp.models.world.blocks.MLP",
+      "input_dim": 384,
+      "hidden_dim": 2048,
+      "output_dim": 512
+    }
+  },
+  "num_preds": 1,
+  "num_workers": 2,
+  "optimizer": {
+    "lr": 5e-05,
+    "type": "AdamW",
+    "weight_decay": 0.001
+  },
+  "output_model_name": "fusion512_libero_scene2/lewm",
+  "seed": 2027,
+  "subdir": "fusion512_libero_scene2",
+  "train_split": 0.9,
+  "trainer": {
+    "accelerator": "gpu",
+    "accumulate_grad_batches": 2,
+    "devices": 1,
+    "gradient_clip_val": 1.0,
+    "max_epochs": 10,
+    "precision": "bf16"
+  },
+  "training_manifest": "assets/manifests/libero_scene2/train.json",
+  "validation_manifest": "assets/manifests/libero_scene2/validation.json",
+  "view_keys": [
+    "pixels",
+    "wrist_pixels"
+  ],
+  "wandb": {
+    "enabled": false
+  }
+}

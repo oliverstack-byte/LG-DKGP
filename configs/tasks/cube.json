@@ -1,0 +1,53 @@
+{
+  "environment": "cube",
+  "world_model": "checkpoints/cube/world_model.pt",
+  "prior": "checkpoints/cube/prior.pt",
+  "data_root": "data",
+  "output": "outputs/cube",
+  "runtime": {
+    "libero_root": "third_party/libero",
+    "robotwin_root": "third_party/robotwin"
+  },
+  "action_mean": [
+    0.010884696780513797,
+    -0.003141432992801393,
+    0.0026465825646189013,
+    0.0004239286647865427,
+    0.15925256653030181
+  ],
+  "action_std": [
+    0.28941983255064135,
+    0.39371697495484864,
+    0.643136521796361,
+    0.39280162022876747,
+    0.25030736400452086
+  ],
+  "sigma": 0.3493684570257794,
+  "planning": {
+    "horizon": 25,
+    "execution": 25,
+    "budget": 50,
+    "action_block": 5,
+    "num_samples": 300,
+    "iterations": 30,
+    "elites": 30,
+    "history_limit": 5
+  },
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "batch_size": 32,
+  "workers": 2,
+  "image_size": 224,
+  "dataset": "ogbench/cube_single_expert.h5",
+  "train_split": "assets/manifests/cube/train.json",
+  "validation_split": "assets/manifests/cube/validation.json",
+  "queries": "assets/manifests/cube/evaluation.json",
+  "prior_settings": "configs/priors/cube.json",
+  "world_settings": "configs/world/cube.json",
+  "frozen_first_observation": false
+}

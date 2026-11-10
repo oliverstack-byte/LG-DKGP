@@ -1,0 +1,47 @@
+{
+  "environment": "pusht",
+  "world_model": "checkpoints/pusht/world_model.pt",
+  "prior": "checkpoints/pusht/prior.pt",
+  "data_root": "data",
+  "output": "outputs/pusht",
+  "runtime": {
+    "libero_root": "third_party/libero",
+    "robotwin_root": "third_party/robotwin"
+  },
+  "action_mean": [
+    -0.007812564379916167,
+    0.006860687229453026
+  ],
+  "action_std": [
+    0.20846744284501556,
+    0.20674862637362268
+  ],
+  "sigma": 0.3629534581292668,
+  "planning": {
+    "horizon": 25,
+    "execution": 25,
+    "budget": 50,
+    "action_block": 5,
+    "num_samples": 300,
+    "iterations": 30,
+    "elites": 30,
+    "history_limit": 5
+  },
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "batch_size": 32,
+  "workers": 2,
+  "image_size": 224,
+  "dataset": "pusht_expert_train.h5",
+  "train_split": "assets/manifests/pusht/train.json",
+  "validation_split": "assets/manifests/pusht/validation.json",
+  "queries": "assets/manifests/pusht/evaluation.json",
+  "prior_settings": "configs/priors/pusht.json",
+  "world_settings": "configs/world/pusht.json",
+  "frozen_first_observation": false
+}

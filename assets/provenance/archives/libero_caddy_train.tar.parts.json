@@ -1,0 +1,48 @@
+{
+  "format": "binary-split-v1",
+  "archive": "libero_caddy_train.tar",
+  "bytes": 68432035840,
+  "sha256": "2a1ee0b0305424637233aa6253d27da11f418ed47634c235dff6b3d4a90b4ea9",
+  "parts": [
+    {
+      "path": "training/libero_caddy_train.tar.part001",
+      "bytes": 8589934592,
+      "sha256": "1db40552a3c4b5f307726f263b5e36ce3c5be279b778634341d68024aedc0900"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part002",
+      "bytes": 8589934592,
+      "sha256": "0d0d5ba1a943338932a8ed3fc104358665edf93fce45a168ea2deaaa75e1a5f3"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part003",
+      "bytes": 8589934592,
+      "sha256": "e341d68ed0f9da0aa7427f7f28af08406da67cccca833197c011d2290c1691b3"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part004",
+      "bytes": 8589934592,
+      "sha256": "367139eb8a5a878b8054742a6c797124a1c3703e2156da6f4873d6b8727cfb21"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part005",
+      "bytes": 8589934592,
+      "sha256": "44968bea6b8e8dc25f913e056fe665b4ee6d9cab6eaefac17a8f5fdcaa0344df"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part006",
+      "bytes": 8589934592,
+      "sha256": "6fb7a0ba3f241933f00dcaf06f97682e9c6283a15d8b71454f324f26a0915775"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part007",
+      "bytes": 8589934592,
+      "sha256": "ffea1906504b2b199b92a292c6c388c7ccdd63ebf3e3025edfa33b98d5454af0"
+    },
+    {
+      "path": "training/libero_caddy_train.tar.part008",
+      "bytes": 8302493696,
+      "sha256": "f8bdd88ef44ef54d2c252c079b2998a684473740c1cfc4568d751e391d728627"
+    }
+  ]
+}

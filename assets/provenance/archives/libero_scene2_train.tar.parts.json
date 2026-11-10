@@ -1,0 +1,58 @@
+{
+  "format": "binary-split-v1",
+  "archive": "libero_scene2_train.tar",
+  "bytes": 78915215360,
+  "sha256": "00d56620dcbd4b8e8c6ece0b0be7040f5d6f79a88187542b814ae7218079956a",
+  "parts": [
+    {
+      "path": "training/libero_scene2_train.tar.part001",
+      "bytes": 8589934592,
+      "sha256": "22f74be817b765859703698a963ac4260f1e71100453343ebe9ade455229cd8d"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part002",
+      "bytes": 8589934592,
+      "sha256": "81298d229688bc6cd0fbdfd8aadae66182a4dfdb57274976e93b4e5668a7a7f8"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part003",
+      "bytes": 8589934592,
+      "sha256": "dbc314697647bd16f0d89b4dfa963140728d37eda99adf85b9e5e0c230e03550"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part004",
+      "bytes": 8589934592,
+      "sha256": "b0a1afd73a0c17f9a1e4c284298dad070f38af55af788f0d1e5cb6804d859f1e"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part005",
+      "bytes": 8589934592,
+      "sha256": "f42973468a70ce05dce2e49b769f8b24f6b621c7b0fb112432a5aa1b06e7f741"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part006",
+      "bytes": 8589934592,
+      "sha256": "e1e05af65768f0368b786d43b38bc5caf0c6cfd1278597d911e25b8301e07e0d"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part007",
+      "bytes": 8589934592,
+      "sha256": "f816674d8da288cb177c8f3335b9489ca00d7cf3607423feb74bb7f1a838f0d0"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part008",
+      "bytes": 8589934592,
+      "sha256": "a1e304ea6a1aa25f4561a1f1716179194557f437b83beb0bf9e29e2c19959385"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part009",
+      "bytes": 8589934592,
+      "sha256": "03c7e4a6b9175000b71fe4e40668842c1dfdc6007d93753a45fcc8f0f50ed9ff"
+    },
+    {
+      "path": "training/libero_scene2_train.tar.part010",
+      "bytes": 1605804032,
+      "sha256": "a705eb4404c5b2be54a602661186a65d5f7a6c114a05bf821248028afda3a496"
+    }
+  ]
+}

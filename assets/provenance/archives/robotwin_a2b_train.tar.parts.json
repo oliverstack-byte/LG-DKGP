@@ -1,0 +1,53 @@
+{
+  "format": "binary-split-v1",
+  "archive": "robotwin_a2b_train.tar",
+  "bytes": 70580776960,
+  "sha256": "430a776b118f94bc21dfa1ed9715df6feaf7c1e1b9c5d9dec7d5561a6c03afe3",
+  "parts": [
+    {
+      "path": "training/robotwin_a2b_train.tar.part001",
+      "bytes": 8589934592,
+      "sha256": "06b67eba5b0006a9d8d17844a5c87e84d3f2bebff32c8bb6dc9f600b411f5877"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part002",
+      "bytes": 8589934592,
+      "sha256": "4d9983513d438d19bafdda26da1aed6d5daf257c4679876198e143d208b6540f"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part003",
+      "bytes": 8589934592,
+      "sha256": "4f7487c324f8f033ba6434ad8c3f36806a77581ae40fe388a14e84048fb2f41d"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part004",
+      "bytes": 8589934592,
+      "sha256": "620f4f895949122792d16177228a7a88880653752d9d5c6d3764ba9cd86a39e7"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part005",
+      "bytes": 8589934592,
+      "sha256": "6e595e506d8c2221f329eabd71ed06670bc1411ed752a8842dccd154a146e94c"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part006",
+      "bytes": 8589934592,
+      "sha256": "4d3bd7edccf2d70f260cee87e5df5d6113e3060510b3307683329018808244bf"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part007",
+      "bytes": 8589934592,
+      "sha256": "12fade20790eb2f6f50a180a5e714d42c3407630a984f659012a7576272ff427"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part008",
+      "bytes": 8589934592,
+      "sha256": "8aa0ee48fcd94a104b3fe3fc8aa18760a805c55f52208bb088ed5774b1482876"
+    },
+    {
+      "path": "training/robotwin_a2b_train.tar.part009",
+      "bytes": 1861300224,
+      "sha256": "81f6386a42b27c8e5f5fa91c0dc354bc6ec599cb1f8d74a1cc7c4abfae99990f"
+    }
+  ]
+}

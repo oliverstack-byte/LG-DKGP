@@ -1,0 +1,57 @@
+{
+  "environment": "libero_scene2",
+  "world_model": "checkpoints/libero_scene2/world_model.pt",
+  "prior": "checkpoints/libero_scene2/prior.pt",
+  "data_root": "data",
+  "output": "outputs/libero_scene2",
+  "runtime": {
+    "libero_root": "third_party/libero",
+    "robotwin_root": "third_party/robotwin"
+  },
+  "action_mean": [
+    0.02525185870248455,
+    0.08311248027760249,
+    -0.03296349786559605,
+    -0.0003925627986713087,
+    0.0025110536926669686,
+    -0.0007744237455416773,
+    0.5082516983640002
+  ],
+  "action_std": [
+    0.17988334503559997,
+    0.2818141127365326,
+    0.3369872369575105,
+    0.0869074894981481,
+    0.0889704907571126,
+    0.08435148559506193,
+    0.8541647680014371
+  ],
+  "sigma": 0.6532117084286896,
+  "planning": {
+    "horizon": 25,
+    "execution": 25,
+    "budget": 50,
+    "action_block": 5,
+    "num_samples": 300,
+    "iterations": 30,
+    "elites": 30,
+    "history_limit": 32
+  },
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "batch_size": 32,
+  "workers": 2,
+  "image_size": 224,
+  "dataset": "sage/source",
+  "train_split": "assets/manifests/libero_scene2/train.json",
+  "validation_split": "assets/manifests/libero_scene2/validation.json",
+  "queries": "assets/manifests/libero_scene2/evaluation.json",
+  "prior_settings": "configs/priors/libero_scene2.json",
+  "world_settings": "configs/world/libero_scene2.json",
+  "frozen_first_observation": true
+}
