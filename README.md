@@ -33,6 +33,9 @@ The GitHub source contains code, recipes, fixed episode/query manifests, and
 licenses. Large checkpoints and native scene fixtures are separate release
 assets. Raw training datasets are downloaded separately; see [docs/data.md](docs/data.md).
 
+Download the model weights from **[Hugging Face: yangbobome/LG-DKGP](https://huggingface.co/yangbobome/LG-DKGP)**.
+Native scene fixtures are separate from the model weights.
+
 Place the asset directories at these paths, preserving filenames:
 
 ```text
@@ -51,9 +54,8 @@ cp -a ../lg-dkgp-release-assets/fixtures .
 uv run --locked --no-sync python tools/verify_artifacts.py
 ```
 
-The `.pt` files and fixtures are ignored by Git. Download URLs should point to
-the separately published release/model assets; this source does not assume an
-unpublished URL. [docs/checkpoints.md](docs/checkpoints.md) records checkpoint identities.
+The `.pt` files and fixtures are ignored by Git.
+[docs/checkpoints.md](docs/checkpoints.md) records checkpoint identities.
 
 ## Evaluate
 
