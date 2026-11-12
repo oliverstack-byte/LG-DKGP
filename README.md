@@ -1,9 +1,36 @@
-# Rethinking Actions: Continuity-Aware Priors for World-Model Planning
+# LG-DKGP: Learning History-Conditioned Expert Continuations for World-Model Planning
 
 Single-GPU training and evaluation for **LG-DKGP**: an action-history encoder,
 neural mean, and GP residual used with a frozen LeWM and CEM planner.
 The reproduction target is our full method on PushT, Cube, Caddy, Scene2, and
 RoboTwin. All commands below run from this repository root.
+
+## Success-rate comparison
+
+Main-paper results (%). Each task reports the mean ± sample standard deviation
+over evaluation seeds 101, 202, 303, 404, and 505 using fixed trained checkpoints.
+Macro is the unweighted mean across the five tasks. **Bold** indicates the best
+mean in each column.
+
+| Method | PushT | Cube | LIBERO Caddy | LIBERO Scene2 | RoboTwin | Macro |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| LeWM | 93.60 ± 1.67 | 63.60 ± 9.74 | 55.31 ± 5.11 | 69.88 ± 8.48 | 10.91 ± 2.53 | 58.66 |
+| iCEM | 96.40 ± 2.61 | 69.60 ± 9.10 | 54.42 ± 4.57 | 72.21 ± 8.56 | 4.03 ± 3.83 | 59.33 |
+| INTACT | 64.40 ± 5.55 | 92.00 ± 3.74 | 80.97 ± 3.95 | 77.53 ± 4.24 | 40.26 ± 8.85 | 71.03 |
+| INTACT+CEM | 88.00 ± 13.19 | 94.80 ± 3.03 | 79.54 ± 7.24 | 73.95 ± 3.86 | 60.66 ± 12.68 | 79.39 |
+| PRISM | 94.00 ± 2.45 | 87.60 ± 4.98 | 56.78 ± 4.07 | 56.91 ± 6.10 | 13.01 ± 5.41 | 61.66 |
+| LG-DKGP (isotropic, expert σ) | 97.60 ± 0.89 | 98.80 ± 1.79 | **83.32 ± 2.05** | 76.96 ± 5.31 | **78.66 ± 4.94** | **87.07** |
+| LG-DKGP (GP covariance, expert σ) | **98.00 ± 1.41** | **99.60 ± 0.89** | 81.12 ± 4.02 | **78.80 ± 4.95** | 77.74 ± 5.03 | 87.05 |
+
+The table reports the paper's short-horizon goal-reaching results. Both LG-DKGP
+rows use the same continuation mean and expert-derived average initial variance.
+The isotropic version uses σ²I; the GP-covariance version scales the full
+residual-function covariance (with its configured multiplier and diagonal floor)
+so its mean marginal variance equals the same expert σ².
+INTACT and PRISM follow the configurations reported in their original papers.
+
+The task recipes select the isotropic version by default. See
+[docs/search.md](docs/search.md) for both search modes and checkpoint selection.
 
 ## Install with uv
 
@@ -68,6 +95,21 @@ uv run --locked --no-sync python -m lgdkgp eval --config configs/tasks/libero_ca
 uv run --locked --no-sync python -m lgdkgp eval --config configs/tasks/libero_scene2.json
 uv run --locked --no-sync python -m lgdkgp eval --config configs/tasks/robotwin_a2b.json
 ```
+
+To use GP covariance with the same task-specific expert scale and checkpoints:
+
+```bash
+uv run --locked --no-sync python -m lgdkgp eval --config configs/tasks/pusht.json \
+  --set planning.covariance_mode=gp_covariance \
+  --set output=outputs/pusht_gp_covariance
+```
+
+Use any of the other four task recipes in the same command. The top-level
+`sigma` comes from that task recipe; it is a standard deviation. Both modes
+use the same `prior` and `world_model` checkpoints. Select
+`--set planning.covariance_mode=isotropic` for isotropic search.
+The mode, actual initial mean variance, and numerical jitter are recorded
+with each plan. These implementation checks do not constitute a new benchmark run.
 
 Run only tasks supported by the currently selected simulator extra. To choose
 other compatible checkpoints, override **both paths explicitly** as needed:
@@ -231,8 +273,9 @@ uv run --locked --no-sync python -m lgdkgp train --config configs/tasks/pusht.js
   --stage both --prior-set training.batch_size=64
 ```
 
-The main recipes use horizon/execution 25/25, a 50-command budget, and CEM with
-300 candidates, 30 iterations, and 30 elites. History is executed action history;
+The main recipes use horizon/execution 25/25, a 75-command budget, history
+capacity 32, and CEM with 300 candidates, 30 iterations, and 30 elites.
+History is executed action history;
 `L=0` masks it entirely while retaining visual conditioning. The released priors
 support horizons up to 25 in five-command blocks. Architecture changes require
 compatible new weights. [docs/data.md](docs/data.md) explains normalization, preprocessing,

@@ -73,15 +73,13 @@ def run_case(cfg, query, device, output):
                 steps += 1
                 local = errors(geometry(adapter, env, task), goal_geometry)['local_goal_success']
                 terminal = env == 'robotwin_a2b' and bool(getattr(adapter.env, 'eval_success', False))
-                if terminal and not bool(adapter.observe()['success']):
-                    raise ValueError('Native terminal lacks success evidence')
-                if local or terminal:
+                if local:
                     break
-            if local or terminal:
+            if local:
                 break
         result = {'state': 'complete', 'id': query['id'], 'seed': query['seed'],
-                  'environment': env, 'success': bool(local or terminal), 'local_success': bool(local),
-                  'verified_native_terminal': bool(terminal), 'executed_raw_steps': steps,
+                  'environment': env, 'success': bool(local), 'local_success': bool(local),
+                  'native_terminal_diagnostic': bool(terminal), 'executed_raw_steps': steps,
                   'fixture_sha256': query['fixture_sha256'], 'alignment': alignment, 'plans': plans}
         write_json(output, result)
         return result

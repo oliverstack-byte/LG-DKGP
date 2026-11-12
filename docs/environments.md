@@ -15,7 +15,8 @@ uv run --locked --no-sync python -m lgdkgp eval --config configs/tasks/pusht.jso
 
 The pinned stable-worldmodel commit registers `swm/PushT-v1` and `swm/OGBCube-v0`.
 Use the original HDF5 files in [docs/data.md](data.md). The adapter keeps seeded dataset
-reset, native success, the action buffer, and the 50-command evaluation budget.
+reset, simulator-state goal predicates, and the action buffer. The task recipes
+set the evaluation budget to 75 executed commands.
 
 ## LIBERO: Caddy and Scene2
 

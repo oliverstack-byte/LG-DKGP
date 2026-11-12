@@ -62,7 +62,7 @@ def prepare(cfg, device):
                'train': file_hash(resolve(cfg['train_split'])),
                'validation': file_hash(resolve(cfg['validation_split'])),
                'mean': cfg['action_mean'], 'std': cfg['action_std'],
-               'image_size': cfg['image_size']}
+               'image_size': cfg['image_size'], 'goal_policy': 'future_25'}
     if (output / 'binding.json').exists() and json.loads((output / 'binding.json').read_text()) != binding:
         raise ValueError('Cache binding differs; select a new output directory')
     write_json(output / 'binding.json', binding)
@@ -123,9 +123,8 @@ def prepare(cfg, device):
     shared = {'environment': cfg['environment'], 'parent_sha256': binding['world'],
               'identity': {'allocation_sha256': digest(binding)},
               'feature_directory': str(output / 'features'), 'episodes': entries,
-              'action_dim': len(mean), 'latent_dim': first['latent'].shape[1], 'akf_parameters': {}}
-    if cfg['environment'] not in ('pusht', 'cube'):
-        shared['goal_policy'] = 'terminal'
+              'action_dim': len(mean), 'latent_dim': first['latent'].shape[1],
+              'akf_parameters': {}, 'goal_policy': 'future_25'}
     write_json(output / 'dataset.json', shared)
     from lgdkgp.data.windows.variable_history import prepare_variable_dataset
     prepare_variable_dataset(output, output / 'lg')

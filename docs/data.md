@@ -71,9 +71,8 @@ packing LeWM action blocks, not by dropping prior history actions.
 Training latent normalization uses prior-training episodes only. History windows
 contain commands before the prediction start, never future labels. Training
 history lengths are sampled causally up to the available context; validation
-uses the original deterministic length schedule. The single-view prior uses
-the `t+25` observation as its window goal. Native prior training retains its
-original terminal-observation conditioning. Future expert commands supervise
+uses the deterministic length schedule. All five environments use
+the `t+25` observation as the window goal. Future expert commands supervise
 the training loss and are never supplied to the online planner.
 
 The planner scale is computed from adjacent standardized commands in successful

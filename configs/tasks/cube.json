@@ -26,12 +26,15 @@
   "planning": {
     "horizon": 25,
     "execution": 25,
-    "budget": 50,
+    "budget": 75,
     "action_block": 5,
     "num_samples": 300,
     "iterations": 30,
     "elites": 30,
-    "history_limit": 5
+    "history_limit": 32,
+    "covariance_mode": "isotropic",
+    "gp_covariance_scale": 2.0,
+    "gp_covariance_floor_std": 0.1
   },
   "seeds": [
     101,

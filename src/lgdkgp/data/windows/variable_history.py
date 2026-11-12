@@ -50,6 +50,8 @@ class VariableHistoryWindows:
         self.seed=seed
         self.index=json.loads((self.directory/'dataset.json').read_text())
         if self.index['identity'].get('schema')!='lg_windows_v1':raise ValueError('Expected LG data schema')
+        if self.index.get('goal_policy', 'future_25') != 'future_25':
+            raise ValueError('Training requires t+25 goals; prepare a new future_25 cache')
         if file_hash(self.directory/'normalizer.pt')!=self.index['normalizer_sha256']:
             raise ValueError('Changed latent normalizer')
         if history_max<1 or not 1<=horizon<=self.index['horizon']:raise ValueError('Unsupported LG history/horizon')
@@ -89,8 +91,7 @@ class VariableHistoryWindows:
                 'episode':torch.full_like(times,entry['episode_id']),
                 'length':lengths,'batch_index':batch_index}
         if not self.history_only:
-            goal_times=(torch.full_like(times,len(payload['latent'])-1)
-                        if self.index.get('goal_policy')=='terminal' else times+25)
+            goal_times=times+25
             result.update(z_current=payload['latent'][times],z_goal=payload['latent'][goal_times])
         return result
 
