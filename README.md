@@ -5,6 +5,27 @@ neural mean, and GP residual used with a frozen LeWM and CEM planner.
 The reproduction target is our full method on PushT, Cube, Caddy, Scene2, and
 RoboTwin. All commands below run from this repository root.
 
+## Success-rate comparison
+
+Main-paper results (%). Each task reports the mean ± sample standard deviation
+over evaluation seeds 101, 202, 303, 404, and 505 using fixed trained checkpoints.
+Macro is the unweighted mean across the five tasks. **Bold** indicates the best
+mean in each column.
+
+| Method | PushT | Cube | LIBERO Caddy | LIBERO Scene2 | RoboTwin | Macro |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| LeWM | 93.60 ± 1.67 | 63.60 ± 9.74 | 55.31 ± 5.11 | 69.88 ± 8.48 | 10.91 ± 2.53 | 58.66 |
+| iCEM | 96.40 ± 2.61 | 69.60 ± 9.10 | 54.42 ± 4.57 | 72.21 ± 8.56 | 4.03 ± 3.83 | 59.33 |
+| INTACT | 64.40 ± 5.55 | 92.00 ± 3.74 | 80.97 ± 3.95 | **77.53 ± 4.24** | 40.26 ± 8.85 | 71.03 |
+| PRISM | 94.00 ± 2.45 | 87.60 ± 4.98 | 56.78 ± 4.07 | 56.91 ± 6.10 | 13.01 ± 5.41 | 61.66 |
+| **LG-DKGP (Ours)** | **97.60 ± 0.89** | **98.80 ± 1.79** | **83.32 ± 2.05** | 76.96 ± 5.31 | **78.66 ± 4.94** | **87.07** |
+
+The main planning setting uses horizon/execution 25/25 and at most 50 executed
+actions. PushT and Cube use native success criteria; Caddy and Scene2 use
+demonstration-fragment goal attainment. RoboTwin uses local-goal attainment or
+verified native terminal success. INTACT follows the original paper's
+task-specific one-epoch training setting and directly executes its predicted mean.
+
 ## Install with uv
 
 Linux x86-64, Python 3.10, and one CUDA GPU are supported. The Python version,
